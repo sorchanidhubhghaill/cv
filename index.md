@@ -270,7 +270,7 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
      -- Dublin City University, Ireland
  - Posterior continious curvilinear capsulorexis  
      S.S. Ni Dhubhghaill  
-     2015 European Society of Cataract and Refractive Surgeons Annual Meeting -- Barcelona, Spain
+     2015 European Society of Cataract and Refractive Surgeons Annual Meeting -- Barcelona, Spain  
 
 
 ## Posters
@@ -388,7 +388,22 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
      2015 J Cataract Refract Surg. 41 (11), 2592  
  - Incidence of rhegmatogenous retinal detachment after bag-in-the-lens intraocular lens implantation  
      Tassignon MJ, Van den Heurck J, Boven K, Van Looveren J, Wouters K, Bali E, Ni Dhubhghaill SS, Mathysen DGP.
-     2015 J Cataract Refract Surg. 41 (11), 2430-2437
+     2015 J Cataract Refract Surg. 41 (11), 2430-2437  
+ - Real-time intraoperative Optical Coherence Tomography imaging confirms older concepts about the Berger Space  
+     Tassignon MJ, Ni Dhubhghaill SS.  
+     2016 Ophthalmic Research 56 (4), 222-226  
+ - Subjective grading of subclinical vitreous floaters  
+     Tassignon MJ, Ni Dhubhghaill SS, Hidalgo IR, Rozema JJ.  
+     2016 The Asia-Pacific Journal of Ophthalmology 5 (2), 104-109  
+ - Corneal Neovascularization: Update on pathogenesis and advances in treatment strategies  
+     Behaegel J, Ni Dhubhghaill SS, Koppen C, Zakaria N.  
+     2016 International Journal of Medical and Biological Frontiers 22 (2), 157  
+ - Evaluation of a Machine-Learning classifier for keratoconus detection based on Scheimpflug tomography     
+     Hidalgo IR, Rodriguez P, Rozema JJ, Ni Dhubhghaill SS, Zakaria N, Tassignon MJ, Koppen C.  
+     2016 Cornea 35 (6), 827-832  
+ - Eckhardt Keratoprosthesis for tectonic repair of a large corneal perforation  
+     Helsen S, Ni Dhubhghaill SS, Zakaria N, Koppen C.  
+     2016 Cornea 35 (8), 1147-1149  
 
 
 ## Books
