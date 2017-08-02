@@ -395,14 +395,17 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
 
  - Diagnosis and treatment of uveitis -- Chapter: Sympathetic Ophthalmia  
      Ni Dhubhghaill SS, Power W.  
-     C.S. Foster and A.T. Vitale Elsevir press (2012) ISBN 9350255723
- - Lens Epithelium and Posterior Capsular Opacification -- Prevention of PCO with the Bag-in-the-lens (BIL)  
+     C.S. Foster and A.T. ISBN 9350255723 Vitale Elsevir press 2012 
+ - Lens Epithelium and Posterior Capsular Opacification -- Chapter: Prevention of PCO with the Bag-in-the-lens (BIL)  
      Tassignon MJ, Ni Dhubhghaill S.  
-     Springer Publishers 2013
- - Expert Techniques in Ophthalmic Surgery -- How to successfully perform the Bag-in-the-lens technique in
+     S. Saika, L. Werner, ISBN-10: 443154299 Springer Publishers 2013
+ - Expert Techniques in Ophthalmic Surgery -- Chapter: How to successfully perform the Bag-in-the-lens technique in
      cataract surgery  
      Tassignon MJ, Ni Dhubhghaill S.  
-     JP Medical Publishers 2013
+     P. Ichhpujani, ISBN-10: 9351525007 JP Medical Publishers 2013  
+ - Posterior Capsular Rent: Genesis and Management -- Chapter: The primary posterior continuous curvilinear capsulorhexis  
+     Tassignon MJ, Ni Dhubhghaill S.
+     A. Chakrabarti, ISBN-10: 8132235843 Springer Publishers 2017
 
 
 ## Ongoing clinical trials
