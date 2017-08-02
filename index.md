@@ -404,7 +404,9 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
  - Eckhardt Keratoprosthesis for tectonic repair of a large corneal perforation  
      Helsen S, Ni Dhubhghaill SS, Zakaria N, Koppen C.  
      2016 Cornea 35 (8), 1147-1149  
-
+ - Stem Cell applications in corneal regeneration and wound repair  
+     Matthyssen S, Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Zakaria N.  
+     20
 
 ## Books
 
