@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: NI DHUBHGHAILL Sorcha Siobh&aacute;n
+title: NI DHUBHGHAILL Sorcha Siobhan
 ---
 ## Personal information
 
 |----------------|-------------------------------------|
-|     First name | Sorcha Siobh&aacute;n               |
-|      Last name | N&iacute; Dhubhghaill               |
+|     First name | Sorcha Siobhan               |
+|      Last name | Ni Dhubhghaill               |
 |    Nationality | Irish American                      |
 |  Mother tongue | English                             |
 |      Languages | Irish, Dutch                        |
@@ -20,10 +20,10 @@ title: NI DHUBHGHAILL Sorcha Siobh&aacute;n
 
 ### Secondary education
 
-#### Scoil Phubail Ch&uacute;l Mh&iacute;n
+#### Scoil Phubail Ch&uacute;l Mhin
 
 October 1993 to May 1999  
-Ch&uacute;l Mh&iacute;n -- Coolmine, Dublin 15, Ireland
+Ch&uacute;l Mhin -- Coolmine, Dublin 15, Ireland
 
  - Leaving certificate, 575/600 points achieved
 
@@ -84,8 +84,13 @@ Ph.D conferred on 7 December 2012.
  - 2011, Theoretical and practical instruction in performing the surgical procedure of Trabeculectomy
    (Prof P Shah), Birmingham, February 2012
  - 2012, ESCRS wet lab -- managing phaco complications, Milan, September 2012
+ - 2015, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Istanbul, February 2015 
  - 2015, ESCRS wet lab -- advanced phacoemulsicication, Barcelona, September 2015
  - 2015, ESCRS wet lab -- femtosecond laser cataract surgery, Barcelona, September 2015
+ - 2015, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Barcelona, September 2015
+ - 2016, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Athens, February 2016
+ - 2016, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Copenhagen, September 2016
+ - 2017, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Maastricht, February 2017
 
 
 ## Career
@@ -221,46 +226,46 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
 
  - The effects of cigarette smoke on the expression of pro and anti-angiogenic factors; relevance to Age-Related
    Macular Degeneration  
-     S.S. N&iacute; Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
+     S.S. Ni Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
      2008 International Conference on Retinal Degeneration -- Emeishan, China
  - The changes in angiogenic factors expressed by cultured retinal pigment epithelial cells (ARPE-19)  
-     S.S. N&iacute; Dhubhghaill, M.T. Cahill, M.Campbell, L.Cassidy, M.M.Humphries, P.Humphries  
+     S.S. Ni Dhubhghaill, M.T. Cahill, M.Campbell, L.Cassidy, M.M.Humphries, P.Humphries  
      2009 Association for Research in Vision and Ophthalmology (ARVO) -- Fort Lauderdale, Florida, US
  - The effects of acute cigarette smoke exposure on retinal pigment epithelial cells (ARPE-19)  
-     S.S. N&iacute; Dhubhghaill
+     S.S. Ni Dhubhghaill
      2009 Irish College of Ophthalmologists (ICO) Annual Conference -- Kilkenny, Ireland  
      _Awarded the Barbara Knox medal for Best Oral Presentation_
  - Cigarette smoking and Age-related Macular Degeneration  
-     S.S. N&iacute; Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
+     S.S. Ni Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
      2010 Royal Victoria Eye and Ear Hospital BST Research presentation -- Dublin, Ireland  
      _Awarded the Eithne Walls memorial medal for Best Research Presentation_
  - The frequencies of genetic polymorphisms in Age-Related Macular Degeneration in the Irish Population  
-     S.S. N&iacute; Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
+     S.S. Ni Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
      2010 RAMI Section of Ophthalmology Meeting -- Dublin, Ireland
  - Clinical Cases: Mucous Membrane Pemphigoid  
-     S.S. N&iacute; Dhubhghaill, C. Murphy, W. Power.  
+     S.S. Ni Dhubhghaill, C. Murphy, W. Power.  
      2011 Teaching Session, Royal Victoria Eye and Ear Hospital -- Dublin, Ireland
  - Long term bag in the lens follow up in the paediatric population  
-     S.S. N&iacute; Dhubhghaill, J. Van Looveren, MJ Tassignon  
+     S.S. Ni Dhubhghaill, J. Van Looveren, MJ Tassignon  
      2013 ICO annual meeting -- Killarney, Ireland
  - Bag in the lens cataract surgery in the diabetic population  
-     S.S. N&iacute; Dhubhghaill, N. Lauwers, M.J. Tassignon  
+     S.S. Ni Dhubhghaill, N. Lauwers, M.J. Tassignon  
      2013 ICO annual meeting -- Killarney, Ireland
  - Video Presentation: Pushing the boundaries with the Bag-in-the-lens technique  
-     S.S. N&iacute; Dhubhghaill, M-J Tassignon  
+     S.S. Ni Dhubhghaill, M-J Tassignon  
      2013 Pan-American Association of Ophthalmology annual congress -- Sao Paulo, Brazil
  - Surgical technique for limbal stem cell graft transplantation lecture plus wet lab instruction  
-     S.S. N&iacute; Dhubhghaill, M-J Tassignon  
+     S.S. Ni Dhubhghaill, M-J Tassignon  
      2014 Cost Action BM1302 Summer Training School -- Nottingham, United Kingdom
  - The BIL in the hands of a beginner  
-     S.S. N&iacute; Dhubhghaill  
+     S.S. Ni Dhubhghaill  
      2014 European Society of Cataract and Refractive Surgeons Annual Meeting -- London, United Kingdom
  - Cultured limbal stem cell surgery -- the Antwerp experience
-     S.S. N&iacute; Dhubhghaill  
+     S.S. Ni Dhubhghaill  
      2015 From Cells to Tissues: Stem Cells, Tissue Repair and Tissue Engineering Conference
      -- Dublin City University, Ireland
  - Posterior continious curvilinear capsulorexis  
-     S.S. N&iacute; Dhubhghaill  
+     S.S. Ni Dhubhghaill  
      2015 European Society of Cataract and Refractive Surgeons Annual Meeting -- Barcelona, Spain
 
 
@@ -268,131 +273,131 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
 
  - Characterisation of single nucleotide polymorphism (SNP) risk factors linked to age-related macular degeneration
    (AMD) in a widely used retinal pigment epithelial cell line (ARPE- 19)  
-     S.S. N&iacute; Dhubhghaill, M.T. Cahill, M.M. Humphries, and L. Cassidy  
+     S.S. Ni Dhubhghaill, M.T. Cahill, M.M. Humphries, and L. Cassidy  
      2008 Irish College of Ophthalmologists (ICO) Annual Conference -- Cavan, Ireland
  - C1q is a cone cell survival factor in a mouse model of rod-cone photoreceptor degeneration  
      M.M. Humphries, P.F. Kenna, M. Campbell, L. Tam, A-S Kiang, S.S. Níhubhghaill, G.J. Farrar, M.
      Botto, and P. Humphries  
      2008 International Conference on Retinal Degeneration -- Emeishan, China 2008.
  - Cigarette smoke and the retinal pigment epithelium . relevance to AMD  
-     S.S. N&iacute; Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
+     S.S. Ni Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
      2008 Trinity College Dublin School of Medicine Postgraduate Research Day, AMNCH -- Tallaght, Ireland
      _2nd Prize Best Poster Presentation_
  - The frequencies of genetic polymorphisms in Age-Related Macular Degeneration in the Irish Population  
-     S.S. N&iacute; Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
+     S.S. Ni Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
      2010 RAMI Section of Ophthalmology Meeting | Dublin, Ireland
  - Visual outcomes, device retention and complications observed with the Boston Keratoprosthesis  
-     S.S. N&iacute; Dhubhghaill, W. Power  
+     S.S. Ni Dhubhghaill, W. Power  
      2011 Joint AAO/SOE meeting -- Geneva, Switzerland
  - Type 1 and 2 Boston Keratoprosthesis: RVEEH  
-     S.S. N&iacute; Dhubhghaill, M. O'Rourke, W. Power  
+     S.S. Ni Dhubhghaill, M. O'Rourke, W. Power  
      2012 EUCORNEA Meeting -- Milan, Italy
 
 
 ## Publications
 
  - Reversible and size selective opening of the inner Blood-Retina Barrier: A novel therapeutic strategy  
-     Campbell M, Nguyen ATH, Kiang AS, Tam LCS, Kenna PF, N&iacute; Dhubhghaill SS, Humphries MM, Farrar GJ, Humphries P.  
+     Campbell M, Nguyen ATH, Kiang AS, Tam LCS, Kenna PF, Ni Dhubhghaill SS, Humphries MM, Farrar GJ, Humphries P.  
      Adv. Exp. Med. Biol. -- 2009
  - An experimental platform for systemic drug delivery to the retina  
-     Campbell M, Nguyen ATH, Kiang AS, Tam LCS, Gobbo OL, Kerskens C, N&iacute; Dhubhghaill SS,
+     Campbell M, Nguyen ATH, Kiang AS, Tam LCS, Gobbo OL, Kerskens C, Ni Dhubhghaill SS,
      Humphries MM, Farrar GJ, Kenna PF, Humphries P.  
      PNAS -- 2009
  - The pathophysiology of cigarette smoking and Age-Related Macular Degeneration  
-     N&iacute; Dhubhghaill SS, Cahill MT, Campbell M, Cassidy L, Humphries MM, Humphries P.  
+     Ni Dhubhghaill SS, Cahill MT, Campbell M, Cassidy L, Humphries MM, Humphries P.  
      Ade. Exp. Med. Biol. -- 2010; 664:437-46
  - On further development of barrier modulation as a technique for systemic ocular drug delivery  
-     Hanrahan F, Campbell M, Nguyen ATH, Suzuki M, Kiang AS, Tam LC, Gobbo OL, N&iacute; Dhubhghaill
+     Hanrahan F, Campbell M, Nguyen ATH, Suzuki M, Kiang AS, Tam LC, Gobbo OL, Ni Dhubhghaill
      SS, Humphries M, Kenna P, Humphries P.  
      Adv. Exp. Med. Biol. -- 2012;723:155-9
  - Managing diabetic macular oedema  
-     N&iacute; Dhubhghaill SS, Collins N, O'Rourke M.  
+     Ni Dhubhghaill SS, Collins N, O'Rourke M.  
      Article for Modern Medicine -- Vol 42 (2) 2012
  - Blink rate in ALS  
-     Byrne S, Pradhan F, N&iacute; Dhubhghaill S, Treacy M, Cassidy L, Hardiman O.  
+     Byrne S, Pradhan F, Ni Dhubhghaill S, Treacy M, Cassidy L, Hardiman O.  
      Amyotroph Lateral Scler. -- 2012 Nov 14
  - Assessment of the Bag-in-the-lens technique in diabetic patients  
-     Lauwers N, N&iacute; Dhubhghaill S, Mathysen D, Tassignon MJ.  
+     Lauwers N, Ni Dhubhghaill S, Mathysen D, Tassignon MJ.  
      Ophthalmologica -- 2013; 229: 212-8
  - Do we have any effective measure to minimize PCO?  
-     Tassignon MJ, N&iacute; Dhubhghaill S.  
+     Tassignon MJ, Ni Dhubhghaill S.  
      Acta Ophthalmologica -- 2013 91. S252(2013)
  - 3D Scheimpflug measurement of posterior chamber plate haptic phakic intraocular lens/crystalline lens gap profile  
-     Tassignon MJ, Rozema JJ, N&iacute; Dhubhghaill S.  
+     Tassignon MJ, Rozema JJ, Ni Dhubhghaill S.  
      Acta Ophthalmologica -- 2013 Jul 15 doi: 10.1111/aos.12211 [Epub]
  - Atypical sino-orbital inflammatory myofibroblastic tumor with bone and cerebral invasion extending to the orbit  
      Lauwers N, De Groot V, Kenis C, Dhubhghaill SN, Claes J, De Keizer RJ.  
      Eur J Ophthalmol. -- 2013 Dec 9:0 doi: 10.5301/ejo. 5000401 [Epub]
  - Normative values for corneal densitometry analysis by Scheimpflug optical assessment  
-     N&iacute; Dhubhghaill SS, Rozema J, Jongenelen S, Ruiz Hidalgo I, Zakaria N, Tassignon MJ.  
+     Ni Dhubhghaill SS, Rozema J, Jongenelen S, Ruiz Hidalgo I, Zakaria N, Tassignon MJ.  
      Invest Ophthalmol Vis Sci. -- 2013 Dec 10 doi 10.1167/iovs 13-13236
  - Slowly progressive keratouveitis in a patient with known systemic leishmaniasis and HIV  
-     VanOs L, Cnops L, Van Esbroeck M, N&iacute; Dhubhghaill S, De Keizer RJW, De Groot V, Tassignon MJ.  
+     VanOs L, Cnops L, Van Esbroeck M, Ni Dhubhghaill S, De Keizer RJW, De Groot V, Tassignon MJ.  
      Ocular Immunology and Inflammation -- 2014, Jan 16 [Epub]
  - Bean-shaped ring segments for capsule stretching and centration of bag-in-the-lens cataract surgery  
      Tassignon MJ, Dhubhghaill SN.  
      J Cataract Refract Surg. -- 2014 Jan; 40(1): 8-12
  - Results of a phase I/II clinical trial: standardized, non-xenogenic, cultivated limbal stem cell transplantation
-     Zakaria N, Possemiers T, N&iacute; Dhubhghaill S, Leysen I, Rozema J, Koppen C, Timmermans JP,
+     Zakaria N, Possemiers T, Ni Dhubhghaill S, Leysen I, Rozema J, Koppen C, Timmermans JP,
      Berneman Z, Tassignon MJ.  
      Journal of Translational Medicine -- 2014, 12:58 doi:10.1186/1479-5876-12-58
  - On devices for creating a continuous curvilinear capsulorhexis
-     Tassignon MJ, Tall M, N&iacute; Dhubhghaill SS.  
+     Tassignon MJ, Tall M, Ni Dhubhghaill SS.  
      J Cataract Refract Surg. -- 2014 40(10), 1754-1755
  - Scheimpflug analysis of centration and bending of posterior chamber phakic intraocular lenses
-     Tassignon MJ, Rozema JJ, N&iacute; Dhubhghaill, SS.  
+     Tassignon MJ, Rozema JJ, Ni Dhubhghaill, SS.  
      The Asia Pacific Journal of Ophthalmology | 06/2014
  - Iris atrophy and erosion caused by an anterior-chamber angle-supported phakic intraocular lens  
-     Akil H, N&iacute; Dhubhghaill SS, Tassignon MJ.  
+     Akil H, Ni Dhubhghaill SS, Tassignon MJ.  
      2014 J Cataract Refract Surg. -- 41(1), 226-229
  - Limbal stem cell deficiency, current treatment options and emerging therapies  
-     Haagdorens M, Van Acker S, Van Gerwen V, N&iacute; Dhubhghaill SS, Kopppen C, Tassignon MJ, Zakaria N.  
+     Haagdorens M, Van Acker S, Van Gerwen V, Ni Dhubhghaill SS, Kopppen C, Tassignon MJ, Zakaria N.  
      International Journal of Stem Cells -- 08/2015
  - March consultation #2  
-     Tassignon MJ, N&iacute; Dhubhghaill SS.  
+     Tassignon MJ, Ni Dhubhghaill SS.  
      2015 J Cataract Refract Surg. -- 41 (3), 687-689
  - Repeatability and interdevice agreement or three different methods of keratometry: Placido, Scheimpflug, and
    Color LED Corneal Topography  
-     Hidalgo IR, Rozema JJ, N&iacute; Dhubhghaill SS, Zakaria N, Koppen C, Tassignon, MJ.  
+     Hidalgo IR, Rozema JJ, Ni Dhubhghaill SS, Zakaria N, Koppen C, Tassignon, MJ.  
      2015 J Refract Surg. -- 31 (3), 176-181
  - Intraocular lens exchange technique for an opacified bag-in-the-lens  
-     N&iacute; Dhubhghaill SS, Van Os L, De Keizer RJW, Taal M, Zakaria N, Tassignon, MJ.  
+     Ni Dhubhghaill SS, Van Os L, De Keizer RJW, Taal M, Zakaria N, Tassignon, MJ.  
      2015 J Cataract Refract Surg. -- 41 (5), 924-928
  - Automated detection of Fuch's dytrophy through a machine learning algorithm using Pentacam data
-     Hidalgo IR, Perez PR, Rozema JJ, Koppen C, N&iacute; Dhubhghaill SS, Zakaria N, Tassignon, MJ.
+     Hidalgo IR, Perez PR, Rozema JJ, Koppen C, Ni Dhubhghaill SS, Zakaria N, Tassignon, MJ.
      2015 Invest Ophthalmol Vis Sci. -- 56 (7), 1641-1641
  - Pediatric bag-in-the-lens implantation: Long-term follow-up
-     Van Looveren J, N&iacute; Dhubhghaill SS, Godts D, Bakker E, De Veuster I, Mathysen D, Tassignon, MJ.  
+     Van Looveren J, Ni Dhubhghaill SS, Godts D, Bakker E, De Veuster I, Mathysen D, Tassignon, MJ.  
      2015 J Cataract Refract Surg. -- 41 (8), 1685-1692
  - Long-term visual acuity, retention and complications observed with the type-I and type-II Boston keraprostheses
    in and Irish population  
-     Duignan ES, N&iacute; Dhubhghaill SS, Malone C, Power W.  
+     Duignan ES, Ni Dhubhghaill SS, Malone C, Power W.  
      2015 Br J Ophthamol -- bjophthemol-2015-307443
  - Optical coherence tomography in cultivated limbal epithelial stem cell transplantation surgery  
-     Zakaria N, N&iacute; Dhubhghaill SS, Taal M, Berneman Z, Koppen C, Tassignon MJ.  
+     Zakaria N, Ni Dhubhghaill SS, Taal M, Berneman Z, Koppen C, Tassignon MJ.  
      2015 Asia Pac J Ophthamol -- 12/2015  
  - Long‐term results of the phase I/II clinical trial: standardized, non‐xenogenic, cultivated limbal stem cell transplantation  
-     Behaegel J, N&iacute; Dhubhghaill SS, Koppen C, Tassignon MJ, Zakaria N.  
+     Behaegel J, Ni Dhubhghaill SS, Koppen C, Tassignon MJ, Zakaria N.  
      2015 Acta Ophthalmologica 93 (S255)  
  - Regarding the open ring–shaped guider for a continuous curvilinear capsulorhexis  
-     N&iacute; Dhubhghaill SS, Taal M, Tassignon MJ.  
+     Ni Dhubhghaill SS, Taal M, Tassignon MJ.  
      2015 J Cataract Refract Surg. 41 (11), 2592  
  - Incidence of rhegmatogenous retinal detachment after bag-in-the-lens intraocular lens implantation  
-     Tassignon MJ, Van den Heurck J, Boven K, Van Looveren J, Wouters K, Bali E, N&iacute; Dhubhghaill SS, Mathysen DGP.
+     Tassignon MJ, Van den Heurck J, Boven K, Van Looveren J, Wouters K, Bali E, Ni Dhubhghaill SS, Mathysen DGP.
      2015 J Cataract Refract Surg. 41 (11), 2430-2437
 
 
 ## Books
 
  - Diagnosis and treatment of uveitis -- Chapter: Sympathetic Ophthalmia  
-     N&iacute; Dhubhghaill SS, Power W.  
+     Ni Dhubhghaill SS, Power W.  
      C.S. Foster and A.T. Vitale Elsevir press (2012) ISBN 9350255723
  - Lens Epithelium and Posterior Capsular Opacification -- Prevention of PCO with the Bag-in-the-lens (BIL)  
-     Tassignon MJ, N&iacute; Dhubhghaill S.  
+     Tassignon MJ, Ni Dhubhghaill S.  
      Springer Publishers 2013
  - Expert Techniques in Ophthalmic Surgery -- How to successfully perform the Bag-in-the-lens technique in
      cataract surgery  
-     Tassignon MJ, N&iacute; Dhubhghaill S.  
+     Tassignon MJ, Ni Dhubhghaill S.  
      JP Medical Publishers 2013
 
 
