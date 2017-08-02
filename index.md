@@ -370,7 +370,16 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
      2015 Br J Ophthamol -- bjophthemol-2015-307443
  - Optical coherence tomography in cultivated limbal epithelial stem cell transplantation surgery  
      Zakaria N, N&iacute; Dhubhghaill SS, Taal M, Berneman Z, Koppen C, Tassignon MJ.  
-     2015 Asia Pac J Ophthamol -- 12/2015
+     2015 Asia Pac J Ophthamol -- 12/2015  
+ - Long‐term results of the phase I/II clinical trial: standardized, non‐xenogenic, cultivated limbal stem cell transplantation  
+     Behaegel J, N&iacute; Dhubhghaill SS, Koppen C, Tassignon MJ, Zakaria N.  
+     2015 Acta Ophthalmologica 93 (S255)  
+ - Regarding the open ring–shaped guider for a continuous curvilinear capsulorhexis  
+     N&iacute; Dhubhghaill SS, Taal M, Tassignon MJ.  
+     2015 J Cataract Refract Surg. 41 (11), 2592  
+ - Incidence of rhegmatogenous retinal detachment after bag-in-the-lens intraocular lens implantation  
+     Tassignon MJ, Van den Heurck J, Boven K, Van Looveren J, Wouters K, Bali E, N&iacute; Dhubhghaill SS, Mathysen DGP.
+     2015 J Cataract Refract Surg. 41 (11), 2430-2437
 
 
 ## Books
