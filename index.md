@@ -160,9 +160,13 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
 
 ### Staff Member University Hospital Antwerp
 
-January 2015 to present  
+January 2015 to December 2016  
 Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
 
+### Senior Staff Member and BAP Professor University Hospital Antwerp
+
+December 2016 to present  
+Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
 
 ## Prizes and awards
 
@@ -219,7 +223,7 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
    Awarded 1000 euro
  - Funds for Research In Ophthalmology (FRO) awarded by the Belgian Academy of Ophthalmology  
    Awarded 10,000 euro to research the optical effects of explanted IOLs
- - Member of the Horizon 2020 consortium arresting corneal blindness
+ - Member of the Horizon 2020 consortium "Arresting corneal blindness"
 
 
 ## Lectures
