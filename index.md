@@ -406,7 +406,19 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
      2016 Cornea 35 (8), 1147-1149  
  - Stem Cell applications in corneal regeneration and wound repair  
      Matthyssen S, Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Zakaria N.  
-     20
+     2017 Neurological Regeneration, 213-255  
+ - A method for quantifying limbal stem cell niches using OCT imaging  
+     Haagdorens M, Behaegel J, Rozema JJ, Van Gerwen V, Michiels S, Ni Dhubhghaill SS, Tassignon MJ, Zakaria N.  
+     2017 British Journal of Ophthalmology, bjophthalmol-2016-309549
+ - Safety of cultivated limbal epithelial stem cell transplantation for human corneal regeneration  
+     Behaegel J, Ni Dhubhghaill SS, Koppen C, Zakaria N.  
+     2017 Stem Cells International  
+ - Xeno-free cultivation of mesenchymal stem cells from the corneal stroma. 
+     Matthyssen S, Ni Dhubhghaill SS, Van Gerwen V, Zakaria N.  
+     2017 Investigative Ophthalmology & Visual Science 58 (5), 2659-2665  
+ - Bean-Shaped ring segments as a capsule enhancement tool in complex bag-in-the-lens intraocular lens implantation  
+     Altenburg A, Ni Dhubhghaill SS, Tassignon MJ.  
+     2017 J Refract Surg. 33 (7), 454-459  
 
 ## Books
 
