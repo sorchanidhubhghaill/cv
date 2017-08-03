@@ -325,44 +325,44 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
      2012 European Journal of Ophthalmology 22(3) 529  
  - Blink rate in ALS  
      Byrne S, Pradhan F, Ni Dhubhghaill S, Treacy M, Cassidy L, Hardiman O.  
-     2012 Amyotroph Lateral Scler. Nov 14
+     2012 Amyotroph Lateral Scler. 14 (4), 291-293
  - Assessment of the Bag-in-the-lens technique in diabetic patients  
      Lauwers N, Ni Dhubhghaill S, Mathysen D, Tassignon MJ.  
-     Ophthalmologica -- 2013; 229: 212-8
+     2013 Ophthalmologica 229: 212-8  
  - Do we have any effective measure to minimize PCO?  
      Tassignon MJ, Ni Dhubhghaill S.  
-     Acta Ophthalmologica -- 2013 91. S252(2013)
+     2013 Acta Ophthalmologica 91. S252(2013)
  - 3D Scheimpflug measurement of posterior chamber plate haptic phakic intraocular lens/crystalline lens gap profile  
      Tassignon MJ, Rozema JJ, Ni Dhubhghaill S.  
-     Acta Ophthalmologica -- 2013 Jul 15 doi: 10.1111/aos.12211 [Epub]
+     2013 Acta Ophthalmologica 91 (8)
  - Atypical sino-orbital inflammatory myofibroblastic tumor with bone and cerebral invasion extending to the orbit  
      Lauwers N, De Groot V, Kenis C, Dhubhghaill SN, Claes J, De Keizer RJ.  
-     Eur J Ophthalmol. -- 2013 Dec 9:0 doi: 10.5301/ejo. 5000401 [Epub]
+     2013 Eur J Ophthalmol. 24 (4), 608-610
  - Normative values for corneal densitometry analysis by Scheimpflug optical assessment  
      Ni Dhubhghaill SS, Rozema J, Jongenelen S, Ruiz Hidalgo I, Zakaria N, Tassignon MJ.  
-     Invest Ophthalmol Vis Sci. -- 2013 Dec 10 doi 10.1167/iovs 13-13236
- - Slowly progressive keratouveitis in a patient with known systemic leishmaniasis and HIV  
-     VanOs L, Cnops L, Van Esbroeck M, Ni Dhubhghaill S, De Keizer RJW, De Groot V, Tassignon MJ.  
-     Ocular Immunology and Inflammation -- 2014, Jan 16 [Epub]
+     2014 Invest Ophthalmol Vis Sci. 55 (1), 162-168  
  - Bean-shaped ring segments for capsule stretching and centration of bag-in-the-lens cataract surgery  
      Tassignon MJ, Dhubhghaill SN.  
-     J Cataract Refract Surg. -- 2014 Jan; 40(1): 8-12
+     2014 J Cataract Refract Surg. Jan; 40(1): 8-12
  - Results of a phase I/II clinical trial: standardized, non-xenogenic, cultivated limbal stem cell transplantation
      Zakaria N, Possemiers T, Ni Dhubhghaill S, Leysen I, Rozema J, Koppen C, Timmermans JP,
      Berneman Z, Tassignon MJ.  
-     Journal of Translational Medicine -- 2014, 12:58 doi:10.1186/1479-5876-12-58
+     2014 Journal of Translational Medicine 2014, 12(58)  
  - On devices for creating a continuous curvilinear capsulorhexis
      Tassignon MJ, Tall M, Ni Dhubhghaill SS.  
-     J Cataract Refract Surg. -- 2014 40(10), 1754-1755
+     2014 J Cataract Refract Surg. 40(10), 1754-1755  
  - Scheimpflug analysis of centration and bending of posterior chamber phakic intraocular lenses
      Tassignon MJ, Rozema JJ, Ni Dhubhghaill, SS.  
-     The Asia Pacific Journal of Ophthalmology | 06/2014
+     2014 The Asia Pacific Journal of Ophthalmology 3 (3), 136-140
  - Iris atrophy and erosion caused by an anterior-chamber angle-supported phakic intraocular lens  
      Akil H, Ni Dhubhghaill SS, Tassignon MJ.  
      2014 J Cataract Refract Surg. -- 41(1), 226-229
  - Limbal stem cell deficiency, current treatment options and emerging therapies  
      Haagdorens M, Van Acker S, Van Gerwen V, Ni Dhubhghaill SS, Kopppen C, Tassignon MJ, Zakaria N.  
-     International Journal of Stem Cells -- 08/2015
+     2015 International Journal of Stem Cells 08/2015  
+ - Slowly progressive keratouveitis in a patient with known systemic leishmaniasis and HIV  
+     VanOs L, Cnops L, Van Esbroeck M, Ni Dhubhghaill S, De Keizer RJW, De Groot V, Tassignon MJ.  
+     2015 Ocular Immunology and Inflammation 23 (3), 248-251  
  - March consultation #2  
      Tassignon MJ, Ni Dhubhghaill SS.  
      2015 J Cataract Refract Surg. -- 41 (3), 687-689
@@ -415,11 +415,11 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
      2017 Neurological Regeneration, 213-255  
  - A method for quantifying limbal stem cell niches using OCT imaging  
      Haagdorens M, Behaegel J, Rozema JJ, Van Gerwen V, Michiels S, Ni Dhubhghaill SS, Tassignon MJ, Zakaria N.  
-     2017 British Journal of Ophthalmology, bjophthalmol-2016-309549
+     2017 British Journal of Ophthalmology, bjophthalmol-2016-309549  
  - Safety of cultivated limbal epithelial stem cell transplantation for human corneal regeneration  
      Behaegel J, Ni Dhubhghaill SS, Koppen C, Zakaria N.  
      2017 Stem Cells International  
- - Xeno-free cultivation of mesenchymal stem cells from the corneal stroma. 
+ - Xeno-free cultivation of mesenchymal stem cells from the corneal stroma.  
      Matthyssen S, Ni Dhubhghaill SS, Van Gerwen V, Zakaria N.  
      2017 Investigative Ophthalmology & Visual Science 58 (5), 2659-2665  
  - Bean-Shaped ring segments as a capsule enhancement tool in complex bag-in-the-lens intraocular lens implantation  
@@ -457,3 +457,5 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
      ESCRS study
  - MLEC Clinical trial
      Limbal stem cell clinical trial
+ - MYOPRED Clinical study
+     Prospective study on retinal detachment after cataract surgery in myopia
