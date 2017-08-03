@@ -302,24 +302,30 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
 
  - Reversible and size selective opening of the inner Blood-Retina Barrier: A novel therapeutic strategy  
      Campbell M, Nguyen ATH, Kiang AS, Tam LCS, Kenna PF, Ni Dhubhghaill SS, Humphries MM, Farrar GJ, Humphries P.  
-     Adv. Exp. Med. Biol. -- 2009
+     2009 Retinal Degenerative Diseases, 301-308
  - An experimental platform for systemic drug delivery to the retina  
      Campbell M, Nguyen ATH, Kiang AS, Tam LCS, Gobbo OL, Kerskens C, Ni Dhubhghaill SS,
      Humphries MM, Farrar GJ, Kenna PF, Humphries P.  
-     PNAS -- 2009
+     2009 Proceedings of the National Academy of Sciences 106 (42), 17817-17822
  - The pathophysiology of cigarette smoking and Age-Related Macular Degeneration  
      Ni Dhubhghaill SS, Cahill MT, Campbell M, Cassidy L, Humphries MM, Humphries P.  
-     Ade. Exp. Med. Biol. -- 2010; 664:437-46
+     2010 Ade. Exp. Med. Biol. 664:437-46  
+ - Validation of approaches to molecular therapy in RNAi-induced murine retinopathies  
+     Humphries P, Campbell M, Tam L, Humphries M, Nguyen A, Ni Dhubhghaill SS, Farrar J, Kenna P, Kiang AS.  
+     2010 Transgenic Research 19 (1), 142-143
  - On further development of barrier modulation as a technique for systemic ocular drug delivery  
      Hanrahan F, Campbell M, Nguyen ATH, Suzuki M, Kiang AS, Tam LC, Gobbo OL, Ni Dhubhghaill
      SS, Humphries M, Kenna P, Humphries P.  
-     Adv. Exp. Med. Biol. -- 2012;723:155-9
+     2012 Adv. Exp. Med. Biol. 723:155-9
  - Managing diabetic macular oedema  
      Ni Dhubhghaill SS, Collins N, O'Rourke M.  
-     Article for Modern Medicine -- Vol 42 (2) 2012
+     2012 Article for Modern Medicine -- Vol 42 (2)  
+ - The prevalence of diabetic retinopathy in newly referred diabetics: The experience of a hospital-based screening program  
+     Ni Dhubhghaill SS, O'Rourke M, Collins N, Murphy S, Hayes F, Horgan N.  
+     2012 European Journal of Ophthalmology 22(3) 529  
  - Blink rate in ALS  
      Byrne S, Pradhan F, Ni Dhubhghaill S, Treacy M, Cassidy L, Hardiman O.  
-     Amyotroph Lateral Scler. -- 2012 Nov 14
+     2012 Amyotroph Lateral Scler. Nov 14
  - Assessment of the Bag-in-the-lens technique in diabetic patients  
      Lauwers N, Ni Dhubhghaill S, Mathysen D, Tassignon MJ.  
      Ophthalmologica -- 2013; 229: 212-8
