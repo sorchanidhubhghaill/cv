@@ -95,25 +95,40 @@ Ph.D conferred on 7 December 2012.
 
 ## Career
 
-### Internship
+### Senior Staff Member and BAP Professor University Hospital Antwerp
 
-July 2005 to June 2006  
-St. James Hospital -- Dublin 2, Ireland
+December 2016 to present  
+Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
 
-Completed rotations in general surgery, maxillofacial surgery, gastroenterology and medicine for the elderly.
+### Staff Member University Hospital Antwerp
 
- - General surgery, July to September 2005
- - Maxillo-facial surgery, October to December 2005
- - General medicine and gastro-enterology, January to March 2006
- - Medicine for the elderly, April to June 2006
+January 2015 to December 2016  
+Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
 
-### Locum Senior House Officer in Ophthalmology
+### Anterior Segment Fellowship
 
-April 2009 to December 2009  
-Adelaide, Meath and the National Children's Hospital -- Tallaght, Dublin 24, Ireland
+January 2012 to December 2014  
+Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
 
-Senior House Officer attending two clinic sessions (approximately 9 hours) per week general and pediatric
-ophthalmology.
+ - Anterior segment surgical rotation: Prof M.J. Tassignon
+
+### Registrar in Ophthalmology
+
+January 2012 to December 2012  
+St. Vincent's University Hospital -- Dublin 2, Ireland
+
+ - Surgical registrar: Mr. P Barry, Mr. N. Horgan, Ms R. Khan including cataract surgery, oculoplastics,
+   glaucoma, corneal and medical retinal clinics  
+
+### Senior House Officer in Ophthalmology
+
+January 2010 to December 2011  
+Royal Victoria Eye and Ear Hospital -- Dublin 2, Ireland
+
+ - January to June 2010: Oculoplastics and Pediatric ophthalmology rotation: Professor L. Cassidy and Mr. P. Moriarty
+ - July to Dec 2010: Corneal pathology and Neuro-ophthalmology : Professor C. Murphy and Mr W. Power
+ - January to June 2011: Retinal rotation: Mr D. Kilmartin and Mr P. Barry
+ - July to Dec 2011: Glaucoma and cornea: Ms A. Doyle, Dr D. Curtin and Mr P. O'Brien
 
 ### Clinical Tutor Ophthalmology
 
@@ -131,42 +146,27 @@ Royal Victoria Eye and Ear Hospital and the Smurfit Institute of Genetics, Trini
  - **Ph.D. project title**: Genetic and environmental factors culminating in the development of Age-
    Related Macular Degeneration (AMD) in population, in vitro and in vivo analyses
  - **Prinicipal investigator**: Mr M. Cahill
- - **Heads of Department**: Professor P. Humphries and Professor L. Cassidy
+ - **Heads of Department**: Professor P. Humphries and Professor L. Cassidy  
 
-### Senior House Officer in Ophthalmology
+### Locum Senior House Officer in Ophthalmology
 
-January 2010 to December 2011  
-Royal Victoria Eye and Ear Hospital -- Dublin 2, Ireland
+April 2009 to December 2009  
+Adelaide, Meath and the National Children's Hospital -- Tallaght, Dublin 24, Ireland
 
- - January to June 2010: Oculoplastics and Pediatric ophthalmology rotation: Professor L. Cassidy and Mr. P. Moriarty
- - July to Dec 2010: Corneal pathology and Neuro-ophthalmology : Professor C. Murphy and Mr W. Power
- - January to June 2011: Retinal rotation: Mr D. Kilmartin and Mr P. Barry
- - July to Dec 2011: Glaucoma and cornea: Ms A. Doyle, Dr D. Curtin and Mr P. O'Brien
+Senior House Officer attending two clinic sessions (approximately 9 hours) per week general and pediatric
+ophthalmology.  
 
-### Registrar in Ophthalmology
+### Internship
 
-January 2012 to December 2012  
-St. Vincent's University Hospital -- Dublin 2, Ireland
+July 2005 to June 2006  
+St. James Hospital -- Dublin 2, Ireland
 
- - Surgical registrar: Mr. P Barry, Mr. N. Horgan, Ms R. Khan including cataract surgery, oculoplastics,
-   glaucoma, corneal and medical retinal clinics
+Completed rotations in general surgery, maxillofacial surgery, gastroenterology and medicine for the elderly.
 
-### Anterior Segment Fellowship
-
-January 2012 to December 2014  
-Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
-
- - Anterior segment surgical rotation: Prof M.J. Tassignon
-
-### Staff Member University Hospital Antwerp
-
-January 2015 to December 2016  
-Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
-
-### Senior Staff Member and BAP Professor University Hospital Antwerp
-
-December 2016 to present  
-Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
+ - General surgery, July to September 2005
+ - Maxillo-facial surgery, October to December 2005
+ - General medicine and gastro-enterology, January to March 2006
+ - Medicine for the elderly, April to June 2006
 
 ## Prizes and awards
 
