@@ -192,7 +192,7 @@ Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
  - 2012 Royal Victoria Eye and Ear Hospital Clinical research prize
  - 2012 John Henehan Prize
 
-### Memberships
+### Membership Examinations
 
  - MRCSI (Opthalmology) Part 1 Collegiate exam passed
  - MRCSI (Opthalmology) Part 2 Written exam passed
