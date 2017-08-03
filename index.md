@@ -223,7 +223,7 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
    Awarded 1000 euro
  - Funds for Research In Ophthalmology (FRO) awarded by the Belgian Academy of Ophthalmology  
    Awarded 10,000 euro to research the optical effects of explanted IOLs
- - Member of the Horizon 2020 consortium "Arresting corneal blindness"
+ - Member of the Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/
 
 
 ## Lectures
