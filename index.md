@@ -91,6 +91,7 @@ Ph.D conferred on 7 December 2012.
  - 2016, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Athens, February 2016
  - 2016, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Copenhagen, September 2016
  - 2017, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Maastricht, February 2017
+ - 2017, CME Novel Approaches in the management of Dry Eye Disease, Online course, New York Eye and Ear Infirmary, August 2017
 
 
 ## Career
