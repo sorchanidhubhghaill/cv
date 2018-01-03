@@ -195,10 +195,11 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
 
 ### Membership Examinations
 
- - MRCSI (Opthalmology) Part 1 Collegiate exam passed
- - MRCSI (Opthalmology) Part 2 Written exam passed
- - MRCSI (Opthalmology) Part 2 Clinical exam passed
- - EBOD (European Board of Ophthalmology) passed, joint 3rd Place in Europe
+ - MRCSI (Opthalmology) Part 1 Collegiate exam passed 2006
+ - MRCSI (Opthalmology) Part 2 Written exam passed 2012
+ - MRCSI (Opthalmology) Part 2 Clinical exam passed 2012
+ - EBOD (European Board of Ophthalmology) passed, joint 3rd Place in Europe 2013
+ - FEBOS-CR (Joint ESCRS/EBO Subspecialist Examination in Cataract and Refractive Surgery) passed 2017
 
 
 ## Awarded funding
@@ -224,7 +225,7 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
    Awarded 1000 euro
  - Funds for Research In Ophthalmology (FRO) awarded by the Belgian Academy of Ophthalmology  
    Awarded 10,000 euro to research the optical effects of explanted IOLs
- - Member of the Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/
+ - Prinicpal Investigator of the Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/
 
 
 ## Lectures
@@ -426,6 +427,9 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Bean-Shaped ring segments as a capsule enhancement tool in complex bag-in-the-lens intraocular lens implantation  
      Altenburg A, Ni Dhubhghaill SS, Tassignon MJ.  
      2017 J Refract Surg. 33 (7), 454-459  
+ - Modified bean-shaped ring segments for suture fixation of the bag-in-the-lens intraocular implant
+     Ni Dhubhghaill SS, Dogaroiu AC, Zakaria N, Tassignon MJ.  
+     2017 J Cataract Refract Surg. 43(8), 1003-1006     
 
 ## Books
 
