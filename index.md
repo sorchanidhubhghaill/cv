@@ -430,7 +430,19 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Modified bean-shaped ring segments for suture fixation of the bag-in-the-lens intraocular implant
      Ni Dhubhghaill SS, Dogaroiu AC, Zakaria N, Tassignon MJ.  
      2017 J Cataract Refract Surg. 43(8), 1003-1006     
-
+ - A review of the evidence for in vivo corneal endothelial regeneration
+     Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Tassignon MJ, Zakaria N.  
+     2017 Survey of Ophthalmology. In Press 4 Aug 2017     
+ - Scleral lenses reduce the need for corneal transplants in severe keratoconus
+     Koppen C, Kreos EO, Anthonissen L, Van Hoey M, Ni Dhubhghaill SS, Vermeulen L.  
+     2018 American Journal of Ophthalmology. Vol 185, 43-37 
+ - Diagnostic challenges in Nocardia keratitis 
+     Behaegel J, Ni Dhubhghaill SS, Koppen C.
+     2017 Eye and Contact lens. In Press 5/12/2017 
+ - Characterizing human decellularized crystalline lens capsules as a scaffold for corneal endothelial tissue engineering
+     Van den Bogerd B, Ni Dhubhghaill SS, Zakaria N.
+     2017 J Tissue Engineering and Regenerative Med. In Press 21/12/2017
+     
 ## Books
 
  - Diagnosis and treatment of uveitis -- Chapter: Sympathetic Ophthalmia  
