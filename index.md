@@ -378,8 +378,8 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Automated detection of Fuch's dytrophy through a machine learning algorithm using Pentacam data
      Hidalgo IR, Perez PR, Rozema JJ, Koppen C, Ni Dhubhghaill SS, Zakaria N, Tassignon, MJ.
      2015 Invest Ophthalmol Vis Sci. -- 56 (7), 1641-1641
- - Pediatric bag-in-the-lens implantation: Long-term follow-up
-     Van Looveren J, Ni Dhubhghaill SS, Godts D, Bakker E, De Veuster I, Mathysen D, Tassignon, MJ.  
+ - Pediatric bag-in-the-lens implantation: Long-term follow-up.     
+     Van Looveren J, Ni Dhubhghaill SS, Godts D, Bakker E, De Veuster I, Mathysen D, Tassignon, MJ.  
      2015 J Cataract Refract Surg. -- 41 (8), 1685-1692
  - Long-term visual acuity, retention and complications observed with the type-I and type-II Boston keraprostheses
    in and Irish population  
@@ -427,20 +427,20 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Bean-Shaped ring segments as a capsule enhancement tool in complex bag-in-the-lens intraocular lens implantation  
      Altenburg A, Ni Dhubhghaill SS, Tassignon MJ.  
      2017 J Refract Surg. 33 (7), 454-459  
- - Modified bean-shaped ring segments for suture fixation of the bag-in-the-lens intraocular implant
+ - Modified bean-shaped ring segments for suture fixation of the bag-in-the-lens intraocular implant  
      Ni Dhubhghaill SS, Dogaroiu AC, Zakaria N, Tassignon MJ.  
      2017 J Cataract Refract Surg. 43(8), 1003-1006     
- - A review of the evidence for in vivo corneal endothelial regeneration
+ - A review of the evidence for in vivo corneal endothelial regeneration.  
      Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Tassignon MJ, Zakaria N.  
-     2017 Survey of Ophthalmology. In Press 4 Aug 2017     
- - Scleral lenses reduce the need for corneal transplants in severe keratoconus
+     2017 Survey of Ophthalmology. In Press 4 Aug 2017    
+ - Scleral lenses reduce the need for corneal transplants in severe keratoconus.  
      Koppen C, Kreos EO, Anthonissen L, Van Hoey M, Ni Dhubhghaill SS, Vermeulen L.  
-     2018 American Journal of Ophthalmology. Vol 185, 43-37 
- - Diagnostic challenges in Nocardia keratitis 
-     Behaegel J, Ni Dhubhghaill SS, Koppen C.
-     2017 Eye and Contact lens. In Press 5/12/2017 
- - Characterizing human decellularized crystalline lens capsules as a scaffold for corneal endothelial tissue engineering
-     Van den Bogerd B, Ni Dhubhghaill SS, Zakaria N.
+     2018 American Journal of Ophthalmology. Vol 185, 43-37  
+ - Diagnostic challenges in Nocardia keratitis  
+     Behaegel J, Ni Dhubhghaill SS, Koppen C.  
+     2017 Eye and Contact lens. In Press 5/12/2017  
+ - Characterizing human decellularized crystalline lens capsules as a scaffold for corneal endothelial tissue engineering  
+     Van den Bogerd B, Ni Dhubhghaill SS, Zakaria N.  
      2017 J Tissue Engineering and Regenerative Med. In Press 21/12/2017
      
 ## Books
