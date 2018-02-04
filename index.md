@@ -68,6 +68,9 @@ Trinity College -- College Green, Dublin 2, Ireland
 
 Ph.D conferred on 7 December 2012.
 
+#### In vivo experiment experience
+Surgical and intraocular laser experience in rodent retinal disease models - mouse and rat.
+Surgical experience in mini-pig corneal disease model.
 
 ## Additonal training
 
