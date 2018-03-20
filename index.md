@@ -88,7 +88,7 @@ Surgical experience in mini-pig corneal disease model.
    (Prof P Shah), Birmingham, February 2012
  - 2012, ESCRS wet lab -- managing phaco complications, Milan, September 2012
  - 2015, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Istanbul, February 2015 
- - 2015, ESCRS wet lab -- advanced phacoemulsicication, Barcelona, September 2015
+ - 2015, ESCRS wet lab -- advanced phacoemulsification, Barcelona, September 2015
  - 2015, ESCRS wet lab -- femtosecond laser cataract surgery, Barcelona, September 2015
  - 2015, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Barcelona, September 2015
  - 2016, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Athens, February 2016
@@ -228,7 +228,7 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
    Awarded 1000 euro
  - Funds for Research In Ophthalmology (FRO) awarded by the Belgian Academy of Ophthalmology  
    Awarded 10,000 euro to research the optical effects of explanted IOLs
- - Prinicpal Investigator of the Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/
+ - Prinicpal Investigator of the Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/ (total award 783065 euro) for implementation of a multicentre clinical trial in corneal limbal stem cell therapy. 
 
 
 ## Lectures
@@ -445,6 +445,9 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Characterizing human decellularized crystalline lens capsules as a scaffold for corneal endothelial tissue engineering  
      Van den Bogerd B, Ni Dhubhghaill SS, Zakaria N.  
      2017 J Tissue Engineering and Regenerative Med. In Press 21/12/2017
+  - Corneal regeneration: A review of stromal replacements
+     Matthysen S, Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Zakaria N.  
+     2018 Acta Biomaterialia In Press 
      
 ## Books
 
