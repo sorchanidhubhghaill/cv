@@ -104,6 +104,11 @@ Surgical experience in mini-pig corneal disease model.
 December 2016 to present  
 Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
 
+### Freelance Medical Science Writer
+
+February 2015 to present
+Regular article submissions for Eurotimes magazine and Eurotimes conference supplements
+
 ### Staff Member University Hospital Antwerp
 
 January 2015 to December 2016  
@@ -203,7 +208,11 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - MRCSI (Opthalmology) Part 2 Clinical exam passed 2012
  - EBOD (European Board of Ophthalmology) passed, joint 3rd Place in Europe 2013
  - FEBOS-CR (Joint ESCRS/EBO Subspecialist Examination in Cataract and Refractive Surgery) passed 2017
+ 
+ ### Board memberships 2018
 
+ - Board member of the examinations committee of the Joint ESCRS/EBO subspecialist examination
+ - Board member of the Belgian Society of Cataract and Refractive Surgeons BSCRS
 
 ## Awarded funding
 
