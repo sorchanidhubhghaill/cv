@@ -25,7 +25,7 @@ title: NI DHUBHGHAILL Sorcha Siobhan
 Oktober 1993 tot mei 1999  
 Ch&uacute;l Mhin -- Coolmine, Dublin 15, Ierland
 
- - Certificaat: 575/600 punten
+ - Behaald certificaat: 575/600 punten
 
 ### Hoger onderwijs
 
