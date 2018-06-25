@@ -215,26 +215,25 @@ Rotaties in algemene chirurgie, maxillofaciale chirurgie, gastro-enterologie en 
 
  - The Irish Research Council for Science, Engineering and Technology (IRCSET), Embark Initiative
    Postgraduate Research Scholarship scheme.  
-   Awarded 72,000 euro over three years
+   72,000 euro toegekend over drie jaar
  - The Royal Victoria Eye and Ear Hospital Research Foundation, Capital Item expenditure award.  
-   Awarded 29,000 euro for an incubator, Argon laser and cigarette smoking apparatus
+   29,000 euro toegekend voor een incubator, Argon laser en sigarettenrook machine
  - Department of Ophthalmology Trinity Colleage Grant, 2008.  
-   Awarded 1,200 euro to facilitate conference travel expenses for the International Conference on Retinal
-   Degeneration
- - Trinity Trust Alumni Associatinon, travel award.  
-   Awarded 800 euro for ARVO conference 2009
+   1,200 euro toegekend om reiskosten naar de International Conference on Retinal Degeneration te faciliteren
+ - Trinity Trust Alumni Association, travel award.  
+   800 euro toegekend voor de ARVO conferentie 2009
  - Eithne Walls Memorial award, travel award from the Royal Victoria Eye and Ear Hospital.  
-   Awarded 1000 euro to fund AAO/SOE conference Geneva 2011
+   1000 euro toegekend voor de AAO/SOE conference Geneve 2011
  - Irish College of Ophthalmology, Barbara Know travel bursary.  
-   Awarded 1000 euro to travel to NEOS 2010
+   1000 euro toegekend voor NEOS 2010
  - Royal Victoria Eye and Ear Hospital Clinical research prize 2012  
-   Awarded 1000 euro to attend conference to present research
- - John Henehan Prize 2012 award presented as the European Society for Cataract and Refractive
-   Surgeons (ESCRS) for essay titled The trials and tribulations of a young ophthalmologist  
-   Awarded 1000 euro
- - Funds for Research In Ophthalmology (FRO) awarded by the Belgian Academy of Ophthalmology  
-   Awarded 10,000 euro to research the optical effects of explanted IOLs
- - Prinicpal Investigator of the Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/ (total award 783065 euro) for implementation of a multicentre clinical trial in corneal limbal stem cell therapy. 
+   1000 euro toegekend om conferentie bij te wonen en research te presenteren
+ - John Henehan Prize 2012, prijs uitgereikt op de European Society for Cataract and Refractive
+   Surgeons (ESCRS) conferentie voor een essay met als title The trials and tribulations of a young ophthalmologist  
+   1000 euro toegekend
+ - Funds for Research In Ophthalmology (FRO) toegekend door de Belgian Academy of Ophthalmology  
+   10,000 euro toegekend om de optische effecten van geexplanteerde IOLs te onderzoeken
+ - Prinicpal Investigator van het Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/ (totaal 783,065 euro toegekend) voor de implementatie van een multicenter klinische proef in cornea-limbale stamceltherapie.
 
 
 ## Lectures
