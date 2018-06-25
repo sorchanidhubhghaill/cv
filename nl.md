@@ -236,7 +236,7 @@ Rotaties in algemene chirurgie, maxillofaciale chirurgie, gastro-enterologie en 
  - Prinicpal Investigator van het Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/ (totaal 783,065 euro toegekend) voor de implementatie van een multicenter klinische proef in cornea-limbale stamceltherapie.
 
 
-## Lectures
+## Lezingen
 
  - The effects of cigarette smoke on the expression of pro and anti-angiogenic factors; relevance to Age-Related
    Macular Degeneration  
@@ -308,7 +308,7 @@ Rotaties in algemene chirurgie, maxillofaciale chirurgie, gastro-enterologie en 
      2012 EUCORNEA Meeting -- Milan, Italy
 
 
-## Publications
+## Publicaties
 
  - Reversible and size selective opening of the inner Blood-Retina Barrier: A novel therapeutic strategy  
      Campbell M, Nguyen ATH, Kiang AS, Tam LCS, Kenna PF, Ni Dhubhghaill SS, Humphries MM, Farrar GJ, Humphries P.  
@@ -454,24 +454,24 @@ Rotaties in algemene chirurgie, maxillofaciale chirurgie, gastro-enterologie en 
      Matthysen S, Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Zakaria N.  
      2018 Acta Biomaterialia In Press 
      
-## Books
+## Boeken
 
- - Diagnosis and treatment of uveitis -- Chapter: Sympathetic Ophthalmia  
+ - Diagnosis and treatment of uveitis -- Hoofdstuk: Sympathetic Ophthalmia  
      Ni Dhubhghaill SS, Power W.  
      C.S. Foster and A.T. ISBN 9350255723 Vitale Elsevir press 2012 
- - Lens Epithelium and Posterior Capsular Opacification -- Chapter: Prevention of PCO with the Bag-in-the-lens (BIL)  
+ - Lens Epithelium and Posterior Capsular Opacification -- Hoofdstuk: Prevention of PCO with the Bag-in-the-lens (BIL)  
      Tassignon MJ, Ni Dhubhghaill S.  
      S. Saika, L. Werner, ISBN-10: 443154299 Springer Publishers 2013
- - Expert Techniques in Ophthalmic Surgery -- Chapter: How to successfully perform the Bag-in-the-lens technique in
+ - Expert Techniques in Ophthalmic Surgery -- Hoofdstuk: How to successfully perform the Bag-in-the-lens technique in
      cataract surgery  
      Tassignon MJ, Ni Dhubhghaill S.  
      P. Ichhpujani, ISBN-10: 9351525007 JP Medical Publishers 2013  
- - Posterior Capsular Rent: Genesis and Management -- Chapter: The primary posterior continuous curvilinear capsulorhexis  
+ - Posterior Capsular Rent: Genesis and Management -- Hoofdstuk: The primary posterior continuous curvilinear capsulorhexis  
      Tassignon MJ, Ni Dhubhghaill S.
      A. Chakrabarti, ISBN-10: 8132235843 Springer Publishers 2017
 
 
-## Ongoing clinical trials
+## Lopende klinische studies
 
  - Mesothelioma Clinical trial  
      Bayer pharmaceutical
