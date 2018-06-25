@@ -177,44 +177,41 @@ Rotaties in algemene chirurgie, maxillofaciale chirurgie, gastro-enterologie en 
  - Algemene geneeskunde en gastro-enterologie, januari tot maart 2006
  - Medicijnen voor ouderen, april tot juni 2006
 
-## Prizes and awards
+## Prijzen en onderscheidingen
 
-### Secondary education prizes and awards
+### Prijzen en onderscheidingen secondair onderwijs
 
- - 1998 Irish Team, International Biology Olympiad held in Kiel Germany
- - 1999 Irish Team captain, International Biology Olympiad held in Uppsala, Sweden
+ - 1998: Lid van het Ierse team, Internationale Biologie Olympiade in Kiel, Duitsland
+ - 1999: Kapitein van het Ierse team, Internationale Biologie Olympiade in Uppsala, Zweden
 
-### Undergraduate / Graduate prizes and awards
+### Prijzen en onderscheidingen hoger onderwijs
 
- - 1999, Trinity College Entrance Exam Exhibitioner based on leaving certificate results
- - 2003, 1st place in the Duke-Elder undergraduate prize open to all medical students in the UK and
-   Ireland. Awarded by the Royal College of Ophthalmologists
- - 2003, Alcon gold Medal, Welch Allyn prize, Trinity College, Dublin awarded by the Professor of
-   Ophthalmology TCD for attaining 1st place in Ophthalmology
- - 2003, Elected Trinity Scholar awarded for achieving overall 1st class honours in 3rd year medical
-   examinations and on the basis of special study examination. Special topic: anatomy, physiology and
-   biochemistry of the eye (2003)
+ - 1999, Trinity College Entrance Exam Exhibitioner gebaseerd op resultaten leaving certificate
+ - 2003, 1ste plaats in de Duke-Elder undergraduate prijs, een competitie onder alle medische studenten in het Verenigd Koningkrijk en Ierland. Uitgereikt door the Royal College of Ophthalmologists
+ - 2003, Alcon goude medaille, Welch Allyn prijs, Trinity College, Dublin uitgereikt door de Professor of
+   Ophthalmology TCD voor het behalen van het beste resultaat in Oogheelkunde
+ - 2003, Trinity Scholar toegekend voor overall 1st class honours in het derde jaar geneeskunde en op basis van specialisatie. Specisatie onderwerpen: anatomie, and on the basis of special study examination. Special topic: anatomy, fysiologie, en biochemie van het oog (2003)
 
-### Professional prizes and awards
+### Professionele prijzen en onderscheidingen
 
- - 2011 Eithne Walls Memorial prize
- - 2012 Royal Victoria Eye and Ear Hospital Clinical research prize
- - 2012 John Henehan Prize
+ - 2011 Eithne Walls Memorial Price
+ - 2012 Royal Victoria Eye and Ear Hospital Clinical research Price
+ - 2012 John Henehan Price
 
-### Membership Examinations
+### Lidmaatschapsexamens
 
- - MRCSI (Opthalmology) Part 1 Collegiate exam passed 2006
- - MRCSI (Opthalmology) Part 2 Written exam passed 2012
- - MRCSI (Opthalmology) Part 2 Clinical exam passed 2012
- - EBOD (European Board of Ophthalmology) passed, joint 3rd Place in Europe 2013
- - FEBOS-CR (Joint ESCRS/EBO Subspecialist Examination in Cataract and Refractive Surgery) passed 2017
+ - MRCSI (oogheelkunde) Deel 1 Collegiaal examen geslaagd 2006
+ - MRCSI (oogheelkunde) Deel 2 Schriftelijk examen geslaagd 2012
+ - MRCSI (oogheelkunde) Deel 2 Klinish examen geslaagd 2012
+ - EBOD (European Board of Ophthalmology) geslaagd, derde plaats in Europa 2013
+ - FEBOS-CR (Joint ESCRS/EBO Subspecialist Examination in Cataract and Refractive Surgery) geslaagd 2017
  
- ### Board memberships 2018
+ ### Lidmaatschap bestuursraden 2018
 
- - Board member of the examinations committee of the Joint ESCRS/EBO subspecialist examination
- - Board member of the Belgian Society of Cataract and Refractive Surgeons BSCRS
+ - Lid van de bestuursraad examinations committee of the Joint ESCRS/EBO subspecialist examination
+ - Lid van de bestuursraad van de Belgian Society of Cataract and Refractive Surgeons BSCRS
 
-## Awarded funding
+## Toegekende fondsen
 
  - The Irish Research Council for Science, Engineering and Technology (IRCSET), Embark Initiative
    Postgraduate Research Scholarship scheme.  
