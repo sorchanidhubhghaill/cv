@@ -38,9 +38,9 @@ Trinity College -- College Green, Dublin 2, Ierland
  - B.Ch.
  - Ba.O
  - B.A.
- - Honours in Medicine
- - Honours in Surgery (2.1)
- - First class honours in Opthalmology
+ - Honours in Geneeskunde
+ - Honours in Chirurgie (2.1)
+ - First class honours in Oogheelkunde
 
 Diploma uitgereikt op 17 juni 2005.
 
@@ -49,11 +49,11 @@ Diploma uitgereikt op 17 juni 2005.
 Oktober 2008 tot oktober 2009
 Trinity College -- College Green, Dublin 2, Ireland
 
- - Diploma in Statistics
- - 1-year diploma course with 5 hours of lectures per week
- - Base Module - 1st Class Honours
- - Introduction to Regression - 1st Class Honours
- - Design of Experiments
+ - Diploma in Statistiek
+ - 1-year diploma opleiding met 5 uur les per week
+ - Basis Module - 1st Class Honours
+ - Introductie Regressie - 1st Class Honours
+ - Ontwerp van experimenten
 
 ### Postgraduaat onderwijs
 
@@ -62,7 +62,7 @@ Trinity College -- College Green, Dublin 2, Ireland
 Oktober 2006 tot oktober 2011
 Trinity College -- College Green, Dublin 2, Ireland
 
- - Ph.D in Ophthalmology
+ - Doctoraat (Ph.D) in Oogheelkunde
  - Genetic and environmental factors culminating in the development of Age-Related Macular
    Degeneration (AMD) in population, in vitro and in vivo analyses
 
