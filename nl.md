@@ -2,37 +2,37 @@
 layout: cv
 title: NI DHUBHGHAILL Sorcha Siobhan
 ---
-## Personal information
+## Persoonlijke gegevens
 
-|----------------|-------------------------------------|
-|     First name | Sorcha Siobhan               |
-|      Last name | Ni Dhubhghaill               |
-|    Nationality | Irish American                      |
-|  Mother tongue | English                             |
-|      Languages | Irish, Dutch                        |
-|  Date of birth | 25 August 1980                      |
-| Place of birth | Dublin, Ireland                     |
-|        Address | Wipstraat 37, 2018 Antwerp, Belgium |
-|          Email | nidhubhs@gmail.com                  |
+|----------------|--------------------------------------|
+|      Voornamen | Sorcha Siobhan                       |
+|    Familienaam | Ni Dhubhghaill                       |
+|  Nationaliteit | Iers & Amerkaans                     |
+|     Moedertaal | Engels                               |
+|   Andere talen | Iers, Nederlands                     |
+|  Geboortedatum | 25 Augustus 1980                     |
+| Geboorteplaats | Dublin, Ierland                      |
+|          Adres | Wipstraat 37, 2018 Antwerpen, België |
+|         E-Mail | nidhubhs@gmail.com                   |
 
 
-## Education
+## Opleiding
 
-### Secondary education
+### Secondair onderwijs
 
 #### Scoil Phubail Ch&uacute;l Mhin
 
-October 1993 to May 1999  
-Ch&uacute;l Mhin -- Coolmine, Dublin 15, Ireland
+Oktober 1993 tot mei 1999  
+Ch&uacute;l Mhin -- Coolmine, Dublin 15, Ierland
 
- - Leaving certificate, 575/600 points achieved
+ - Certificaat: 575/600 punten
 
-### Undergraduate education / Graduate education
+### Hoger onderwijs
 
-#### The University of Dublin, Trinity College
+#### De Universiteit van Dublin, Trinity College
 
-September 1999 to May 2005  
-Trinity College -- College Green, Dublin 2, Ireland
+September 1999 tot mei 2005  
+Trinity College -- College Green, Dublin 2, Ierland
 
  - M.B.
  - B.Ch.
@@ -42,11 +42,11 @@ Trinity College -- College Green, Dublin 2, Ireland
  - Honours in Surgery (2.1)
  - First class honours in Opthalmology
 
-Degree conferred on 17 June 2005.
+Diploma uitgereikt op 17 juni 2005.
 
-#### The University of Dublin, Trinity College
+#### De Universiteit van Dublin, Trinity College
 
-October 2008 to October 2009
+Oktober 2008 tot oktober 2009
 Trinity College -- College Green, Dublin 2, Ireland
 
  - Diploma in Statistics
@@ -55,24 +55,24 @@ Trinity College -- College Green, Dublin 2, Ireland
  - Introduction to Regression - 1st Class Honours
  - Design of Experiments
 
-### Postgraduate education
+### Postgraduaat onderwijs
 
-#### The University of Dublin, Trinity College
+#### De Universiteit van Dublin, Trinity College
 
-October 2006 to October 2011
+Oktober 2006 tot oktober 2011
 Trinity College -- College Green, Dublin 2, Ireland
 
  - Ph.D in Ophthalmology
  - Genetic and environmental factors culminating in the development of Age-Related Macular
    Degeneration (AMD) in population, in vitro and in vivo analyses
 
-Ph.D conferred on 7 December 2012.
+Ph.D/doctoraat uitgereikt op 7 december 2012.
 
-#### In vivo experiment experience
-Surgical and intraocular laser experience in rodent retinal disease models - mouse and rat.
-Surgical experience in mini-pig corneal disease model.
+#### In vivo experimentervaring
+Chirurgische en intraoculaire laserervaring bij knaagdier-retinale ziektemodellen - muis en rat.
+Chirurgische ervaring bij hoornvliesaandoeningen bij varkens.
 
-## Additonal training
+## Bijomende opleiding
 
  - 2008, Certified completion of the Laboratory Animals in Science and Teaching (LAST) accreditation
    and Modules 1,2 and 3 UK accreditation (ASPA)
@@ -97,85 +97,85 @@ Surgical experience in mini-pig corneal disease model.
  - 2017, CME Novel Approaches in the management of Dry Eye Disease, Online course, New York Eye and Ear Infirmary, August 2017
 
 
-## Career
+## Loopbaan
 
-### Senior Staff Member and BAP Professor University Hospital Antwerp
+### Senior Staf Lid en BAP Professor Universitair Ziekenhuis Antwerpen
 
-December 2016 to present  
-Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
+December 2016 tot op heden  
+Universitair Ziekenhuis Antwerpen -- Wilrijkstraat 10, 2610 Antwerpen, België
 
-### Freelance Medical Science Writer
+### Freelance auteur medische wetenschap
 
-February 2015 to present
-Regular article submissions for Eurotimes magazine and Eurotimes conference supplements
+Februari 2015 tot op heden  
+Regelmatige artikelinzendingen voor Eurotimes-magazine en Eurotimes-conferentiesupplementen
 
-### Staff Member University Hospital Antwerp
+### Staf Lid Universitair Ziekenhuis Antwerpen
 
-January 2015 to December 2016  
-Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
+Januari 2015 tot December 2016  
+Universitair Ziekenhuis Antwerpen -- Wilrijkstraat 10, 2610 Antwerpen, België
 
-### Anterior Segment Fellowship
+### Voorsegment Fellowship
 
-January 2012 to December 2014  
-Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
+Januari 2012 tot December 2014  
+Universitair Ziekenhuis Antwerpen -- Wilrijkstraat 10, 2610 Antwerpen, België
 
- - Anterior segment surgical rotation: Prof M.J. Tassignon
+ - Voorsegment chirurgie onder Prof M.J. Tassignon
 
-### Registrar in Ophthalmology
+### Registrar in Oogheelkunde
 
-January 2012 to December 2012  
-St. Vincent's University Hospital -- Dublin 2, Ireland
+Januari 2012 tot december 2012  
+St. Vincent's University Hospital -- Dublin 2, Ierland
 
- - Surgical registrar: Mr. P Barry, Mr. N. Horgan, Ms R. Khan including cataract surgery, oculoplastics,
-   glaucoma, corneal and medical retinal clinics  
+ - Chirurgie onder Mr. P Barry, Mr. N. Horgan, Ms R. Khan met onder meer cataract chirurgie, oculoplastics,
+glaucoom, cornea en (medische) retina
 
-### Senior House Officer in Ophthalmology
+### Senior House Officer in Oogheelkunde
 
-January 2010 to December 2011  
-Royal Victoria Eye and Ear Hospital -- Dublin 2, Ireland
+January 2010 tot december 2011  
+Royal Victoria Eye and Ear Hospital -- Dublin 2, Ierland
 
- - January to June 2010: Oculoplastics and Pediatric ophthalmology rotation: Professor L. Cassidy and Mr. P. Moriarty
- - July to Dec 2010: Corneal pathology and Neuro-ophthalmology : Professor C. Murphy and Mr W. Power
- - January to June 2011: Retinal rotation: Mr D. Kilmartin and Mr P. Barry
- - July to Dec 2011: Glaucoma and cornea: Ms A. Doyle, Dr D. Curtin and Mr P. O'Brien
+ - January tot juni 2010: Oculoplastics en pediatrische oogheelkunde onder Professor L. Cassidy en Mr. P. Moriarty
+ - Juli tot december 2010: Hoornvliespathologie en neuro-oftalmologie onder Professor C. Murphy en Mr W. Power
+ - January to juni 2011: Retina onder Mr D. Kilmartin en Mr P. Barry
+ - Juli tot december 2011: Glaucoom en hoornvlies onder Ms A. Doyle, Dr D. Curtin and Mr P. O'Brien
 
-### Clinical Tutor Ophthalmology
+### Klinisch docent oogheelkunde
 
-October 2006 to October 2011  
-Department of Ophthalmology, Trinity College, Royal Victoria Eye and Ear Hospital -- Dublin 2, Ireland
+Oktober 2006 tot Oktober 2011  
+Department of Ophthalmology, Trinity College, Royal Victoria Eye and Ear Hospital -- Dublin 2, Ierland
 
-Teaching Ophthalmology to undergraduates for 7-8 hours per week during the academic term plus the
-organisation and grading of structured clinical examinations.
+Oogheelkunde onderwijzen aan studenten gedurende 7-8 uur per week tijdens de academische periode, alsook de
+organisatie en indeling van gestructureerde klinische examens.
 
-### Postgraduate Researcher (Ph.D) in Ophthalmology
+### Doctoraal Onderzoeker(Ph.D) Oogheelkunde
 
-October 2006 to October 2011  
-Royal Victoria Eye and Ear Hospital and the Smurfit Institute of Genetics, Trinity College Dublin -- Dublin 2, Ireland
+Oktober 2006 tot Oktober 2011  
+Royal Victoria Eye and Ear Hospital en het Smurfit Institute of Genetics, Trinity College Dublin -- Dublin 2, Ierland
 
- - **Ph.D. project title**: Genetic and environmental factors culminating in the development of Age-
+ - **Doctoraatstitel**: Genetic and environmental factors culminating in the development of Age-
    Related Macular Degeneration (AMD) in population, in vitro and in vivo analyses
- - **Prinicipal investigator**: Mr M. Cahill
- - **Heads of Department**: Professor P. Humphries and Professor L. Cassidy  
+ - **Begeleider**: Mr M. Cahill
+ - **Departementshoofd**: Professor P. Humphries en Professor L. Cassidy  
 
-### Locum Senior House Officer in Ophthalmology
+### Locum Senior House Officer in Oogheelkunde
 
-April 2009 to December 2009  
-Adelaide, Meath and the National Children's Hospital -- Tallaght, Dublin 24, Ireland
+April 2009 tot december 2009  
+Adelaide, Meath and the National Children's Hospital -- Tallaght, Dublin 24, Ierland
 
-Senior House Officer attending two clinic sessions (approximately 9 hours) per week general and pediatric
-ophthalmology.  
+Senior House Officer; Bijwonen van twee clinic sessies (ongeveer 9 uur) per week algemene en pediatrische
+oogheelkunde.
 
-### Internship
+### Stage
 
-July 2005 to June 2006  
-St. James Hospital -- Dublin 2, Ireland
+Juli 2005 tot juni 2006  
+St. James Hospital -- Dublin 2, Ierland
 
-Completed rotations in general surgery, maxillofacial surgery, gastroenterology and medicine for the elderly.
+Rotaties in algemene chirurgie, maxillofaciale chirurgie, gastro-enterologie en medicijnen voor ouderen.
 
- - General surgery, July to September 2005
- - Maxillo-facial surgery, October to December 2005
- - General medicine and gastro-enterology, January to March 2006
- - Medicine for the elderly, April to June 2006
+ - Algemene chirurgie, juli tot september 2005
+ - Maxillofaciale chirurgie, oktober tot december 2005
+ - Algemene geneeskunde en gastro-enterologie, januari tot maart 2006
+ - Medicijnen voor ouderen, april tot juni 2006
 
 ## Prizes and awards
 
