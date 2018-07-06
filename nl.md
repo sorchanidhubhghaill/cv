@@ -7,13 +7,13 @@ title: NI DHUBHGHAILL Sorcha Siobhan
 |----------------|--------------------------------------|
 |      Voornamen | Sorcha Siobhan                       |
 |    Familienaam | Ni Dhubhghaill                       |
-|  Nationaliteit | Iers & Amerkaans                     |
+|  Nationaliteit | Iers & Amerikaans                    |
 |     Moedertaal | Engels                               |
 |   Andere talen | Iers, Nederlands                     |
-|  Geboortedatum | 25 Augustus 1980                     |
+|  Geboortedatum | 25 augustus 1980                     |
 | Geboorteplaats | Dublin, Ierland                      |
 |          Adres | Wipstraat 37, 2018 Antwerpen, België |
-|         E-Mail | nidhubhs@gmail.com                   |
+|         E-mail | nidhubhs@gmail.com                   |
 
 
 ## Opleiding
@@ -47,7 +47,7 @@ Diploma uitgereikt op 17 juni 2005.
 #### De Universiteit van Dublin, Trinity College
 
 Oktober 2008 tot oktober 2009
-Trinity College -- College Green, Dublin 2, Ireland
+Trinity College -- College Green, Dublin 2, Ierland
 
  - Diploma in Statistiek
  - 1-year diploma opleiding met 5 uur les per week
@@ -60,7 +60,7 @@ Trinity College -- College Green, Dublin 2, Ireland
 #### De Universiteit van Dublin, Trinity College
 
 Oktober 2006 tot oktober 2011
-Trinity College -- College Green, Dublin 2, Ireland
+Trinity College -- College Green, Dublin 2, Ierland
 
  - Doctoraat (Ph.D) in Oogheelkunde
  - Genetic and environmental factors culminating in the development of Age-Related Macular
@@ -72,34 +72,34 @@ Ph.D/doctoraat uitgereikt op 7 december 2012.
 Chirurgische en intraoculaire laserervaring bij knaagdier-retinale ziektemodellen - muis en rat.
 Chirurgische ervaring bij hoornvliesaandoeningen bij varkens.
 
-## Bijomende opleiding
+## Aanvullende opleidingen
 
  - 2008, Certified completion of the Laboratory Animals in Science and Teaching (LAST) accreditation
    and Modules 1,2 and 3 UK accreditation (ASPA)
- - 2008, Completed the Graduate Course in Immunology (TCD Department of Immunology) coordinated
-   by Prof. Cliona O'Farrelly
- - 2010, Alcon Basic Phacoemulsification Course (Hemell Hempstead UK) Completed February 2010
- - 2010, Microsurgical Skills Course ICO, Royal College of Surgeons Ireland November 2010
- - 2010, ICO Glaucoma skills workshop, Royal Victoria Eye and Ear Hospital December 2010
- - 2011, A rational approach to retinal detachment (Chair: B.Aylward), Joint AAO/SOE meeting, Geneva 2011
- - 2011, Dry AMD workshop (Chair: U. Chakravarthy), Joint AAO/SOE meeting, Geneva 2011
+ - 2008, Completed the Graduate Course in Immunology (TCD Department of Immunology) gecoördineerd door
+   Prof. Cliona O'Farrelly
+ - 2010, Alcon Basic Phacoemulsification Course (Hemell Hempstead UK) Voltooid februari 2010
+ - 2010, Microsurgical Skills Course ICO, Royal College of Surgeons Ireland november 2010
+ - 2010, ICO Glaucoma skills workshop, Royal Victoria Eye and Ear Hospital december 2010
+ - 2011, A rational approach to retinal detachment (Chair: B.Aylward), Joint AAO/SOE meeting, Genève 2011
+ - 2011, Dry AMD workshop (Chair: U. Chakravarthy), Joint AAO/SOE meeting, Genève 2011
  - 2011, Neuro-ophthalmology Course, (Ms P. Logan) August 2011, Beaumont Hospital 2011
  - 2011, Theoretical and practical instruction in performing the surgical procedure of Trabeculectomy
-   (Prof P Shah), Birmingham, February 2012
- - 2012, ESCRS wet lab -- managing phaco complications, Milan, September 2012
- - 2015, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Istanbul, February 2015 
- - 2015, ESCRS wet lab -- advanced phacoemulsification, Barcelona, September 2015
- - 2015, ESCRS wet lab -- femtosecond laser cataract surgery, Barcelona, September 2015
- - 2015, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Barcelona, September 2015
- - 2016, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Athens, February 2016
- - 2016, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Copenhagen, September 2016
- - 2017, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Maastricht, February 2017
- - 2017, CME Novel Approaches in the management of Dry Eye Disease, Online course, New York Eye and Ear Infirmary, August 2017
+   (Prof P Shah), Birmingham, februari 2012
+ - 2012, ESCRS wet lab -- managing phaco complications, Milaan, september 2012
+ - 2015, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab docent, Istanboel, februari 2015 
+ - 2015, ESCRS wet lab -- advanced phacoemulsification, Barcelona, september 2015
+ - 2015, ESCRS wet lab -- femtosecond laser cataract surgery, Barcelona, september 2015
+ - 2015, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Docent, Barcelona, september 2015
+ - 2016, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Docent, Athene, februari 2016
+ - 2016, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab docent, Kopenhagen, september 2016
+ - 2017, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab docent, Maastricht, februari 2017
+ - 2017, CME Novel Approaches in the management of Dry Eye Disease, Online cursus, New York Eye and Ear Infirmary, augustus 2017
 
 
 ## Loopbaan
 
-### Senior Staf Lid en BAP Professor Universitair Ziekenhuis Antwerpen
+### Senior Staflid en BAP Professor Universitair Ziekenhuis Antwerpen
 
 December 2016 tot op heden  
 Universitair Ziekenhuis Antwerpen -- Wilrijkstraat 10, 2610 Antwerpen, België
@@ -109,24 +109,24 @@ Universitair Ziekenhuis Antwerpen -- Wilrijkstraat 10, 2610 Antwerpen, België
 Februari 2015 tot op heden  
 Regelmatige artikelinzendingen voor Eurotimes-magazine en Eurotimes-conferentiesupplementen
 
-### Staf Lid Universitair Ziekenhuis Antwerpen
+### Staflid Universitair Ziekenhuis Antwerpen
 
-Januari 2015 tot December 2016  
+Januari 2015 tot december 2016  
 Universitair Ziekenhuis Antwerpen -- Wilrijkstraat 10, 2610 Antwerpen, België
 
 ### Voorsegment Fellowship
 
-Januari 2012 tot December 2014  
+Januari 2012 tot december 2014  
 Universitair Ziekenhuis Antwerpen -- Wilrijkstraat 10, 2610 Antwerpen, België
 
- - Voorsegment chirurgie onder Prof M.J. Tassignon
+ - Voorsegmentchirurgie onder Prof M.J. Tassignon
 
 ### Registrar in Oogheelkunde
 
 Januari 2012 tot december 2012  
 St. Vincent's University Hospital -- Dublin 2, Ierland
 
- - Chirurgie onder Mr. P Barry, Mr. N. Horgan, Ms R. Khan met onder meer cataract chirurgie, oculoplastics,
+ - Chirurgie onder Mr. P Barry, Mr. N. Horgan, Ms R. Khan met onder meer cataractchirurgie, oculoplastics,
 glaucoom, cornea en (medische) retina
 
 ### Senior House Officer in Oogheelkunde
@@ -134,27 +134,27 @@ glaucoom, cornea en (medische) retina
 January 2010 tot december 2011  
 Royal Victoria Eye and Ear Hospital -- Dublin 2, Ierland
 
- - January tot juni 2010: Oculoplastics en pediatrische oogheelkunde onder Professor L. Cassidy en Mr. P. Moriarty
- - Juli tot december 2010: Hoornvliespathologie en neuro-oftalmologie onder Professor C. Murphy en Mr W. Power
- - January to juni 2011: Retina onder Mr D. Kilmartin en Mr P. Barry
- - Juli tot december 2011: Glaucoom en hoornvlies onder Ms A. Doyle, Dr D. Curtin and Mr P. O'Brien
+ - Januari tot juni 2010: Oculoplastics en pediatrische oogheelkunde onder Professor L. Cassidy en Mr. P. Moriarty
+ - Juli tot december 2010: Hoornvliespathologie en neuro-oftalmologie onder Professor C. Murphy en Mr. W. Power
+ - Januari to juni 2011: Retina onder Mr. D. Kilmartin en Mr. P. Barry
+ - Juli tot december 2011: Glaucoom en hoornvlies onder Ms. A. Doyle, Dr. D. Curtin and Mr. P. O'Brien
 
 ### Klinisch docent oogheelkunde
 
 Oktober 2006 tot Oktober 2011  
 Department of Ophthalmology, Trinity College, Royal Victoria Eye and Ear Hospital -- Dublin 2, Ierland
 
-Oogheelkunde onderwijzen aan studenten gedurende 7-8 uur per week tijdens de academische periode, alsook de
+Oogheelkunde onderwijzen aan studenten gedurende 7-8 uur per week tijdens het academiejaar, alsook de
 organisatie en indeling van gestructureerde klinische examens.
 
 ### Doctoraal Onderzoeker(Ph.D) Oogheelkunde
 
-Oktober 2006 tot Oktober 2011  
+Oktober 2006 tot oktober 2011  
 Royal Victoria Eye and Ear Hospital en het Smurfit Institute of Genetics, Trinity College Dublin -- Dublin 2, Ierland
 
  - **Doctoraatstitel**: Genetic and environmental factors culminating in the development of Age-
    Related Macular Degeneration (AMD) in population, in vitro and in vivo analyses
- - **Begeleider**: Mr M. Cahill
+ - **Begeleider**: Mr. M. Cahill
  - **Departementshoofd**: Professor P. Humphries en Professor L. Cassidy  
 
 ### Locum Senior House Officer in Oogheelkunde
@@ -162,7 +162,7 @@ Royal Victoria Eye and Ear Hospital en het Smurfit Institute of Genetics, Trinit
 April 2009 tot december 2009  
 Adelaide, Meath and the National Children's Hospital -- Tallaght, Dublin 24, Ierland
 
-Senior House Officer; Bijwonen van twee clinic sessies (ongeveer 9 uur) per week algemene en pediatrische
+Senior House Officer; Bijwonen van twee klinische sessies (ongeveer 9 uur) per week algemene en pediatrische
 oogheelkunde.
 
 ### Stage
@@ -188,9 +188,9 @@ Rotaties in algemene chirurgie, maxillofaciale chirurgie, gastro-enterologie en 
 
  - 1999, Trinity College Entrance Exam Exhibitioner gebaseerd op resultaten leaving certificate
  - 2003, 1ste plaats in de Duke-Elder undergraduate prijs, een competitie onder alle medische studenten in het Verenigd Koningkrijk en Ierland. Uitgereikt door the Royal College of Ophthalmologists
- - 2003, Alcon goude medaille, Welch Allyn prijs, Trinity College, Dublin uitgereikt door de Professor of
+ - 2003, Alcon gouden medaille, Welch Allyn prijs, Trinity College, Dublin uitgereikt door de Professor of
    Ophthalmology TCD voor het behalen van het beste resultaat in Oogheelkunde
- - 2003, Trinity Scholar toegekend voor overall 1st class honours in het derde jaar geneeskunde en op basis van specialisatie. Specisatie onderwerpen: anatomie, and on the basis of special study examination. Special topic: anatomy, fysiologie, en biochemie van het oog (2003)
+ - 2003, Trinity Scholar toegekend voor overall 1st class honours in het derde jaar geneeskunde en op basis van specialisatie. Specialisatie onderwerp: anatomie, en in het bijzonder anatomie, fysiologie, en biochemie van het oog (2003)
 
 ### Professionele prijzen en onderscheidingen
 
@@ -202,11 +202,11 @@ Rotaties in algemene chirurgie, maxillofaciale chirurgie, gastro-enterologie en 
 
  - MRCSI (oogheelkunde) Deel 1 Collegiaal examen geslaagd 2006
  - MRCSI (oogheelkunde) Deel 2 Schriftelijk examen geslaagd 2012
- - MRCSI (oogheelkunde) Deel 2 Klinish examen geslaagd 2012
+ - MRCSI (oogheelkunde) Deel 2 Klinisch examen geslaagd 2012
  - EBOD (European Board of Ophthalmology) geslaagd, derde plaats in Europa 2013
  - FEBOS-CR (Joint ESCRS/EBO Subspecialist Examination in Cataract and Refractive Surgery) geslaagd 2017
  
- ### Lidmaatschap bestuursraden 2018
+### Lidmaatschap bestuursraden 2018
 
  - Lid van de bestuursraad examinations committee of the Joint ESCRS/EBO subspecialist examination
  - Lid van de bestuursraad van de Belgian Society of Cataract and Refractive Surgeons BSCRS
@@ -215,25 +215,25 @@ Rotaties in algemene chirurgie, maxillofaciale chirurgie, gastro-enterologie en 
 
  - The Irish Research Council for Science, Engineering and Technology (IRCSET), Embark Initiative
    Postgraduate Research Scholarship scheme.  
-   72,000 euro toegekend over drie jaar
+   72.000 euro toegekend over drie jaar
  - The Royal Victoria Eye and Ear Hospital Research Foundation, Capital Item expenditure award.  
-   29,000 euro toegekend voor een incubator, Argon laser en sigarettenrook machine
- - Department of Ophthalmology Trinity Colleage Grant, 2008.  
-   1,200 euro toegekend om reiskosten naar de International Conference on Retinal Degeneration te faciliteren
+   29.000 euro toegekend voor een incubator, Argon laser en sigarettenrookmachine
+ - Department of Ophthalmology Trinity College Grant, 2008.  
+   1.200 euro toegekend om reiskosten naar de International Conference on Retinal Degeneration te faciliteren
  - Trinity Trust Alumni Association, travel award.  
-   800 euro toegekend voor de ARVO conferentie 2009
- - Eithne Walls Memorial award, travel award from the Royal Victoria Eye and Ear Hospital.  
-   1000 euro toegekend voor de AAO/SOE conference Geneve 2011
- - Irish College of Ophthalmology, Barbara Know travel bursary.  
-   1000 euro toegekend voor NEOS 2010
+   800 euro toegekend voor de ARVO-conferentie 2009
+ - Eithne Walls Memorial award, travel award van het Royal Victoria Eye and Ear Hospital.  
+   1.000 euro toegekend voor de AAO/SOE conferentie Genève 2011
+ - Irish College of Ophthalmology, Barbara Know reiskostenbeurs.  
+   1.000 euro toegekend voor NEOS 2010
  - Royal Victoria Eye and Ear Hospital Clinical research prize 2012  
-   1000 euro toegekend om conferentie bij te wonen en research te presenteren
+   1.000 euro toegekend om conferentie bij te wonen en research te presenteren
  - John Henehan Prize 2012, prijs uitgereikt op de European Society for Cataract and Refractive
-   Surgeons (ESCRS) conferentie voor een essay met als title The trials and tribulations of a young ophthalmologist  
-   1000 euro toegekend
+   Surgeons (ESCRS) conferentie voor een essay met als titel The trials and tribulations of a young ophthalmologist  
+   1.000 euro toegekend
  - Funds for Research In Ophthalmology (FRO) toegekend door de Belgian Academy of Ophthalmology  
-   10,000 euro toegekend om de optische effecten van geexplanteerde IOLs te onderzoeken
- - Prinicpal Investigator van het Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/ (totaal 783,065 euro toegekend) voor de implementatie van een multicenter klinische proef in cornea-limbale stamceltherapie.
+   10.000 euro toegekend om de optische effecten van geëxplanteerde IOL's te onderzoeken
+ - Principal Investigator van het Horizon 2020 consortium "Arrest Blindness" https://www.arrestblindness.eu/ (totaal 783.065 euro toegekend) voor de implementatie van een multicenter klinische proef in cornea-limbale stamceltherapie.
 
 
 ## Lezingen
@@ -244,43 +244,43 @@ Rotaties in algemene chirurgie, maxillofaciale chirurgie, gastro-enterologie en 
      2008 International Conference on Retinal Degeneration -- Emeishan, China
  - The changes in angiogenic factors expressed by cultured retinal pigment epithelial cells (ARPE-19)  
      S.S. Ni Dhubhghaill, M.T. Cahill, M.Campbell, L.Cassidy, M.M.Humphries, P.Humphries  
-     2009 Association for Research in Vision and Ophthalmology (ARVO) -- Fort Lauderdale, Florida, US
+     2009 Association for Research in Vision and Ophthalmology (ARVO) -- Fort Lauderdale, Florida, VS
  - The effects of acute cigarette smoke exposure on retinal pigment epithelial cells (ARPE-19)  
      S.S. Ni Dhubhghaill
-     2009 Irish College of Ophthalmologists (ICO) Annual Conference -- Kilkenny, Ireland  
-     _Awarded the Barbara Knox medal for Best Oral Presentation_
+     2009 Irish College of Ophthalmologists (ICO) Annual Conference -- Kilkenny, Ierland  
+     _Onderscheiden met de Barbara Knox medaille voor beste presentatie_
  - Cigarette smoking and Age-related Macular Degeneration  
      S.S. Ni Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
-     2010 Royal Victoria Eye and Ear Hospital BST Research presentation -- Dublin, Ireland  
-     _Awarded the Eithne Walls memorial medal for Best Research Presentation_
+     2010 Royal Victoria Eye and Ear Hospital BST Research presentation -- Dublin, Ierland  
+     _Onderscheiden met de Eithne Walls memorial medaille voor beste onderzoekspresentatie_
  - The frequencies of genetic polymorphisms in Age-Related Macular Degeneration in the Irish Population  
      S.S. Ni Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
-     2010 RAMI Section of Ophthalmology Meeting -- Dublin, Ireland
+     2010 RAMI Section of Ophthalmology Meeting -- Dublin, Ierland
  - Clinical Cases: Mucous Membrane Pemphigoid  
      S.S. Ni Dhubhghaill, C. Murphy, W. Power.  
-     2011 Teaching Session, Royal Victoria Eye and Ear Hospital -- Dublin, Ireland
+     2011 Onderwijssessie, Royal Victoria Eye and Ear Hospital -- Dublin, Ierland
  - Long term bag in the lens follow up in the paediatric population  
      S.S. Ni Dhubhghaill, J. Van Looveren, MJ Tassignon  
-     2013 ICO annual meeting -- Killarney, Ireland
+     2013 ICO annual meeting -- Killarney, Ierland
  - Bag in the lens cataract surgery in the diabetic population  
      S.S. Ni Dhubhghaill, N. Lauwers, M.J. Tassignon  
      2013 ICO annual meeting -- Killarney, Ireland
- - Video Presentation: Pushing the boundaries with the Bag-in-the-lens technique  
+ - Video Presentatie: Pushing the boundaries with the Bag-in-the-lens technique  
      S.S. Ni Dhubhghaill, M-J Tassignon  
-     2013 Pan-American Association of Ophthalmology annual congress -- Sao Paulo, Brazil
+     2013 Pan-American Association of Ophthalmology annual congress -- Sao Paulo, Brazilië
  - Surgical technique for limbal stem cell graft transplantation lecture plus wet lab instruction  
      S.S. Ni Dhubhghaill, M-J Tassignon  
-     2014 Cost Action BM1302 Summer Training School -- Nottingham, United Kingdom
+     2014 Cost Action BM1302 Summer Training School -- Nottingham, Verenigd Koninkrijk
  - The BIL in the hands of a beginner  
      S.S. Ni Dhubhghaill  
-     2014 European Society of Cataract and Refractive Surgeons Annual Meeting -- London, United Kingdom
+     2014 European Society of Cataract and Refractive Surgeons Annual Meeting -- Londen, Verenigd Koninkrijk
  - Cultured limbal stem cell surgery -- the Antwerp experience
      S.S. Ni Dhubhghaill  
      2015 From Cells to Tissues: Stem Cells, Tissue Repair and Tissue Engineering Conference
-     -- Dublin City University, Ireland
- - Posterior continious curvilinear capsulorexis  
+     -- Dublin City University, Ierland
+ - Posterior continuous curvilinear capsulorexis  
      S.S. Ni Dhubhghaill  
-     2015 European Society of Cataract and Refractive Surgeons Annual Meeting -- Barcelona, Spain  
+     2015 European Society of Cataract and Refractive Surgeons Annual Meeting -- Barcelona, Spanje  
 
 
 ## Posters
@@ -288,24 +288,24 @@ Rotaties in algemene chirurgie, maxillofaciale chirurgie, gastro-enterologie en 
  - Characterisation of single nucleotide polymorphism (SNP) risk factors linked to age-related macular degeneration
    (AMD) in a widely used retinal pigment epithelial cell line (ARPE- 19)  
      S.S. Ni Dhubhghaill, M.T. Cahill, M.M. Humphries, and L. Cassidy  
-     2008 Irish College of Ophthalmologists (ICO) Annual Conference -- Cavan, Ireland
+     2008 Irish College of Ophthalmologists (ICO) Annual Conference -- Cavan, Ierland
  - C1q is a cone cell survival factor in a mouse model of rod-cone photoreceptor degeneration  
-     M.M. Humphries, P.F. Kenna, M. Campbell, L. Tam, A-S Kiang, S.S. Níhubhghaill, G.J. Farrar, M.
+     M.M. Humphries, P.F. Kenna, M. Campbell, L. Tam, A-S Kiang, S.S. Ní Dhubhghaill, G.J. Farrar, M.
      Botto, and P. Humphries  
      2008 International Conference on Retinal Degeneration -- Emeishan, China 2008.
- - Cigarette smoke and the retinal pigment epithelium . relevance to AMD  
+ - Cigarette smoke and the retinal pigment epithelium -- relevance to AMD  
      S.S. Ni Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
-     2008 Trinity College Dublin School of Medicine Postgraduate Research Day, AMNCH -- Tallaght, Ireland
-     _2nd Prize Best Poster Presentation_
+     2008 Trinity College Dublin School of Medicine Postgraduate Research Day, AMNCH -- Tallaght, Ierland
+     _Tweede prijs beste posterpresentatie_
  - The frequencies of genetic polymorphisms in Age-Related Macular Degeneration in the Irish Population  
      S.S. Ni Dhubhghaill, M.T. Cahill, M. Campbell, L.Cassidy, M.M. Humphries and P. Humphries  
-     2010 RAMI Section of Ophthalmology Meeting | Dublin, Ireland
+     2010 RAMI Section of Ophthalmology Meeting | Dublin, Ierland
  - Visual outcomes, device retention and complications observed with the Boston Keratoprosthesis  
      S.S. Ni Dhubhghaill, W. Power  
-     2011 Joint AAO/SOE meeting -- Geneva, Switzerland
+     2011 Joint AAO/SOE meeting -- Genève, Zwitserland
  - Type 1 and 2 Boston Keratoprosthesis: RVEEH  
      S.S. Ni Dhubhghaill, M. O'Rourke, W. Power  
-     2012 EUCORNEA Meeting -- Milan, Italy
+     2012 EUCORNEA Meeting -- Milaan, Italië
 
 
 ## Publicaties
@@ -458,7 +458,7 @@ Rotaties in algemene chirurgie, maxillofaciale chirurgie, gastro-enterologie en 
 
  - Diagnosis and treatment of uveitis -- Hoofdstuk: Sympathetic Ophthalmia  
      Ni Dhubhghaill SS, Power W.  
-     C.S. Foster and A.T. ISBN 9350255723 Vitale Elsevir press 2012 
+     C.S. Foster and A.T. ISBN 9350255723 Vitale Elsevier press 2012 
  - Lens Epithelium and Posterior Capsular Opacification -- Hoofdstuk: Prevention of PCO with the Bag-in-the-lens (BIL)  
      Tassignon MJ, Ni Dhubhghaill S.  
      S. Saika, L. Werner, ISBN-10: 443154299 Springer Publishers 2013
