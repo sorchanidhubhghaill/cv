@@ -285,8 +285,13 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Posterior continious curvilinear capsulorexis  
      S.S. Ni Dhubhghaill  
      2015 European Society of Cataract and Refractive Surgeons Annual Meeting -- Barcelona, Spain  
-
-
+ - Secondary lens implantation techniques: lecture and skills transfer course
+     S.S. Ni Dhubhghaill  
+     2018 The American Society of Cataract and Refractive Surgery -- Washington DC, USA  
+ - Surgical alignement techniques - The ESCRS Academy Session  
+     S.S. Ni Dhubhghaill  
+     2018 The Baltic Eye Surgeons Talk Show Vol 6 -- Riga, Latvia
+     
 ## Posters
 
  - Characterisation of single nucleotide polymorphism (SNP) risk factors linked to age-related macular degeneration
