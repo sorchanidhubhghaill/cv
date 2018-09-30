@@ -95,13 +95,22 @@ Surgical experience in mini-pig corneal disease model.
  - 2016, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Copenhagen, September 2016
  - 2017, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Maastricht, February 2017
  - 2017, CME Novel Approaches in the management of Dry Eye Disease, Online course, New York Eye and Ear Infirmary, August 2017
-
+ - 2018, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Vienna, September 2018
+ - 2018, ESCRS wet lab -- DMEK Surgery, Wet Lab Teacher, Vienna, September 2018
 
 ## Career
 
+### Corneal Surgeon NIIOS
+
+60% FTE September 2018 to present  
+NIIOS Netherlands Institute fo r -- Wilrijkstraat 10, 2610 Antwerp, Belgium
+
+
 ### Senior Staff Member and BAP Professor University Hospital Antwerp
 
-December 2016 to present  
+40% FTE September 2018 to present
+100% FTE December 2016 to August 2018
+
 Antwerp University Hospital -- Wilrijkstraat 10, 2610 Antwerp, Belgium
 
 ### Freelance Medical Science Writer
