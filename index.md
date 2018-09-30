@@ -103,7 +103,7 @@ Surgical experience in mini-pig corneal disease model.
 ### Corneal Surgeon NIIOS
 
 60% FTE September 2018 to present  
-NIIOS Netherlands Institute fo r -- Wilrijkstraat 10, 2610 Antwerp, Belgium
+NIIOS Netherlands Institute for Innovative Ocular Surgery -- Laan op Zuid 88, 3071 AA Rotterdam, The Netherlands
 
 
 ### Senior Staff Member and BAP Professor University Hospital Antwerp
