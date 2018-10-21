@@ -97,6 +97,7 @@ Surgical experience in mini-pig corneal disease model.
  - 2017, CME Novel Approaches in the management of Dry Eye Disease, Online course, New York Eye and Ear Infirmary, August 2017
  - 2018, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Vienna, September 2018
  - 2018, ESCRS wet lab -- DMEK Surgery, Wet Lab Teacher, Vienna, September 2018
+ - 2018, NIIOS Academy -- Basic DMEK Surgical Course instructor, Rotterdam, October 2018
 
 ## Career
 
@@ -297,10 +298,13 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Secondary lens implantation techniques: lecture and skills transfer course
      S.S. Ni Dhubhghaill  
      2018 The American Society of Cataract and Refractive Surgery -- Washington DC, USA  
- - Surgical alignement techniques - The ESCRS Academy Session  
+ - Surgical alignment techniques - The ESCRS Academy Session  
      S.S. Ni Dhubhghaill  
      2018 The Baltic Eye Surgeons Talk Show Vol 6 -- Riga, Latvia
-     
+  - Innovative Corneal Therapies - What's Possible?  
+     S.S. Ni Dhubhghaill  
+     2018 Hasselt Eye Group Meeting -- Hasselt, Belgium
+         
 ## Posters
 
  - Characterisation of single nucleotide polymorphism (SNP) risk factors linked to age-related macular degeneration
@@ -458,9 +462,9 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      2017 J Cataract Refract Surg. 43(8), 1003-1006     
  - A review of the evidence for in vivo corneal endothelial regeneration.  
      Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Tassignon MJ, Zakaria N.  
-     2017 Survey of Ophthalmology. In Press 4 Aug 2017    
+     2018 Survey of Ophthalmology. 63 (2), 149-1657    
  - Scleral lenses reduce the need for corneal transplants in severe keratoconus.  
-     Koppen C, Kreos EO, Anthonissen L, Van Hoey M, Ni Dhubhghaill SS, Vermeulen L.  
+     Koppen C, Kreps EO, Anthonissen L, Van Hoey M, Ni Dhubhghaill SS, Vermeulen L.  
      2018 American Journal of Ophthalmology. Vol 185, 43-37  
  - Diagnostic challenges in Nocardia keratitis  
      Behaegel J, Ni Dhubhghaill SS, Koppen C.  
@@ -471,7 +475,16 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
   - Corneal regeneration: A review of stromal replacements
      Matthysen S, Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Zakaria N.  
      2018 Acta Biomaterialia In Press 
-     
+  - Primary descemetorhexis without endothelial keratoplasty to promote awareness and caution  
+     Van den Bogerd B, Ni Dhubhghaill SS.
+     2018 J Cataract Refract Surgery 44(3), 417 
+  - Ultrathin Poly-DL-Lactic Membranes for Corneal Endothelial Transplantation  
+     Van den Bogerd B, Jasper Van Hoorick, Jürgen Van Erps, Hugo Thienpont, Sorcha Ní Dhubhghaill, Peter Dubruel, Sandra Van        Vlierberghe, Nadia Zakaria  
+     2018 Investigative Ophthalmology & Visual Science 59 (9), 1378-1378
+  - Regeneration of the anterior cornea through a standardized, non-xenogenic, cultivated limbal stem cell transplantation:  Results of a phase II clinical trial  
+    Joséphine Behaegel, Carina Koppen, Sorcha Ní Dhubhghaill, Inge Leysen, Michel Haagdorens, Eline Melsbach, Jos J Rozema,       Marie-José Tassignon, Nadia Zakaria  
+    Investigative Ophthalmology & Visual Science 59(9) 2270    
+
 ## Books
 
  - Diagnosis and treatment of uveitis -- Chapter: Sympathetic Ophthalmia  
