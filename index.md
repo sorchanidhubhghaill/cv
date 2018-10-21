@@ -476,7 +476,7 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      Matthysen S, Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Zakaria N.  
      2018 Acta Biomaterialia In Press 
   - Primary descemetorhexis without endothelial keratoplasty to promote awareness and caution  
-     Van den Bogerd B, Ni Dhubhghaill SS.
+     Van den Bogerd B, Ni Dhubhghaill SS  
      2018 J Cataract Refract Surgery 44(3), 417 
   - Ultrathin Poly-DL-Lactic Membranes for Corneal Endothelial Transplantation  
      Van den Bogerd B, Jasper Van Hoorick, Jürgen Van Erps, Hugo Thienpont, Sorcha Ní Dhubhghaill, Peter Dubruel, Sandra Van        Vlierberghe, Nadia Zakaria  
