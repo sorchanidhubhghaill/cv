@@ -483,7 +483,11 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      2018 Investigative Ophthalmology & Visual Science 59 (9), 1378-1378
   - Regeneration of the anterior cornea through a standardized, non-xenogenic, cultivated limbal stem cell transplantation:  Results of a phase II clinical trial  
     Joséphine Behaegel, Carina Koppen, Sorcha Ní Dhubhghaill, Inge Leysen, Michel Haagdorens, Eline Melsbach, Jos J Rozema,       Marie-José Tassignon, Nadia Zakaria  
-    Investigative Ophthalmology & Visual Science 59(9) 2270    
+    2018 Investigative Ophthalmology & Visual Science 59(9) 2270  
+ - Cultured Cells and Rock Inhibitor for Bullous Keratopathy  
+    Bert Van den Bogerd, Sorcha Ní Dhubhghaill, Nadia Zakaria  
+    2018 New England Journal of Medicine 379 (12), 1184-1185
+        
 
 ## Books
 
