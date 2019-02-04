@@ -219,7 +219,7 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - EBOD (European Board of Ophthalmology) passed, joint 3rd Place in Europe 2013
  - FEBOS-CR (Joint ESCRS/EBO Subspecialist Examination in Cataract and Refractive Surgery) passed 2017
  
- ### Board memberships 2018
+### Board memberships 2018
 
  - Board member of the examinations committee of the Joint ESCRS/EBO subspecialist examination
  - Board member of the Belgian Society of Cataract and Refractive Surgeons BSCRS
@@ -304,6 +304,9 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
   - Innovative Corneal Therapies - What's Possible?  
      S.S. Ni Dhubhghaill  
      2018 Hasselt Eye Group Meeting -- Hasselt, Belgium
+  - Corneal Dystrophies 
+     S.S. Ni Dhubhghaill  
+     2018 Master na Master Clinical lessons - Antwerp, Belgium
          
 ## Posters
 
