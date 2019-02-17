@@ -87,17 +87,21 @@ Surgical experience in mini-pig corneal disease model.
  - 2011, Theoretical and practical instruction in performing the surgical procedure of Trabeculectomy
    (Prof P Shah), Birmingham, February 2012
  - 2012, ESCRS wet lab -- managing phaco complications, Milan, September 2012
- - 2015, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Istanbul, February 2015 
- - 2015, ESCRS wet lab -- advanced phacoemulsification, Barcelona, September 2015
- - 2015, ESCRS wet lab -- femtosecond laser cataract surgery, Barcelona, September 2015
- - 2015, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Barcelona, September 2015
- - 2016, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Athens, February 2016
- - 2016, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Copenhagen, September 2016
- - 2017, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Maastricht, February 2017
- - 2017, CME Novel Approaches in the management of Dry Eye Disease, Online course, New York Eye and Ear Infirmary, August 2017
+  - 2017, CME Novel Approaches in the management of Dry Eye Disease, Online course, New York Eye and Ear Infirmary  
+  
+## Training courses given   
+
+ - 2015, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Istanbul, February 2015    
+ - 2015, ESCRS wet lab -- advanced phacoemulsification, Barcelona, September 2015  
+ - 2015, ESCRS wet lab -- femtosecond laser cataract surgery, Barcelona, September 2015  
+ - 2015, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Barcelona, September 2015   
+ - 2016, ESCRS wet lab -- Bag-in-the-lens cataract surgery, Wet Lab Teacher, Athens, February 2016  
+ - 2016, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Copenhagen, September 2016  
+ - 2017, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Maastricht, February 2017   
  - 2018, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Vienna, September 2018
  - 2018, ESCRS wet lab -- DMEK Surgery, Wet Lab Teacher, Vienna, September 2018
  - 2018, NIIOS Academy -- Basic DMEK Surgical Course instructor, Rotterdam, October 2018
+ - 2018, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Athens, February 2018
 
 ## Career
 
@@ -307,7 +311,12 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
   - Corneal Dystrophies 
      S.S. Ni Dhubhghaill  
      2018 Master na Master Clinical lessons - Antwerp, Belgium
-         
+  - Toric Intraocular Lenses: The Corneal Didactic course 
+     S.S. Ni Dhubhghaill  
+     2019 European Society of Cataract and Refractive Surgeons Winter Meeting -- Athens, Greece  
+  - When the unexpected happens: Postoperative Infections 
+     S.S. Ni Dhubhghaill  
+     2019 European Society of Cataract and Refractive Surgeons Winter Meeting -- Athens, Greece           
 ## Posters
 
  - Characterisation of single nucleotide polymorphism (SNP) risk factors linked to age-related macular degeneration
