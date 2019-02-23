@@ -101,7 +101,7 @@ Surgical experience in mini-pig corneal disease model.
  - 2018, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Vienna, September 2018
  - 2018, ESCRS wet lab -- DMEK Surgery, Wet Lab Teacher, Vienna, September 2018
  - 2018, NIIOS Academy -- Basic DMEK Surgical Course instructor, Rotterdam, October 2018
- - 2018, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Athens, February 2018
+ - 2019, ESCRS wet lab -- The primary posterior continuous curvilinear capsulorhexis, Wet Lab Teacher, Athens, February 2019
 
 ## Career
 
@@ -223,10 +223,15 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - EBOD (European Board of Ophthalmology) passed, joint 3rd Place in Europe 2013
  - FEBOS-CR (Joint ESCRS/EBO Subspecialist Examination in Cataract and Refractive Surgery) passed 2017
  
-### Board memberships 2018
+### Board memberships 
 
  - Board member of the examinations committee of the Joint ESCRS/EBO subspecialist examination
  - Board member of the Belgian Society of Cataract and Refractive Surgeons BSCRS
+ 
+### Editorial work  
+
+ - Editorial board for the Journal of EU Cornea since Feb 2019
+ - Editorial board for Eurotimes magazine since Oct 2018
 
 ## Awarded funding
 
