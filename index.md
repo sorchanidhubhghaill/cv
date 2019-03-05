@@ -322,6 +322,10 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
   - When the unexpected happens: Postoperative Infections 
      S.S. Ni Dhubhghaill  
      2019 European Society of Cataract and Refractive Surgeons Winter Meeting -- Athens, Greece           
+  - Innovative corneal techniques - what's new and what's next 
+     S.S. Ni Dhubhghaill  
+     2019 Royal Victoria Eye and Ear Hospital -- Dublin, Ireland  
+
 ## Posters
 
  - Characterisation of single nucleotide polymorphism (SNP) risk factors linked to age-related macular degeneration
