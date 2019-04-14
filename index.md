@@ -503,11 +503,17 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      Van den Bogerd B, Jasper Van Hoorick, Jürgen Van Erps, Hugo Thienpont, Sorcha Ní Dhubhghaill, Peter Dubruel, Sandra Van        Vlierberghe, Nadia Zakaria  
      2018 Investigative Ophthalmology & Visual Science 59 (9), 1378-1378
   - Regeneration of the anterior cornea through a standardized, non-xenogenic, cultivated limbal stem cell transplantation:  Results of a phase II clinical trial  
-    Joséphine Behaegel, Carina Koppen, Sorcha Ní Dhubhghaill, Inge Leysen, Michel Haagdorens, Eline Melsbach, Jos J Rozema,       Marie-José Tassignon, Nadia Zakaria  
-    2018 Investigative Ophthalmology & Visual Science 59(9) 2270  
+     Joséphine Behaegel, Carina Koppen, Sorcha Ní Dhubhghaill, Inge Leysen, Michel Haagdorens, Eline Melsbach, Jos J Rozema,        Marie-José Tassignon, Nadia Zakaria  
+     2018 Investigative Ophthalmology & Visual Science 59(9) 2270  
  - Cultured Cells and Rock Inhibitor for Bullous Keratopathy  
-    Bert Van den Bogerd, Sorcha Ní Dhubhghaill, Nadia Zakaria  
-    2018 New England Journal of Medicine 379 (12), 1184-1185
+     Bert Van den Bogerd, Sorcha Ní Dhubhghaill, Nadia Zakaria  
+     2018 New England Journal of Medicine 379 (12), 1184-1185
+ - March Consultation #3  
+     Sorcha Ní Dhubhghaill, Jos Rozema  
+     2019 J Cataract Refract Surgery 45 (3), 384-385  
+ - Corneal epithelial restoration after penetrating keratoplasty in repeated failed cultivated limbal stem cell grafts.   
+     Joséphine Behaegel, Carina Koppen, Veerle Van Gerwen, Marie-Jose Tassingon, Sorcha Ní Dhubhghaill  
+     2019 Journal of EuCornea
         
 
 ## Books
