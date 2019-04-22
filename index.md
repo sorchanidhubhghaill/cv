@@ -325,7 +325,10 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
   - Innovative corneal techniques - what's new and what's next 
      S.S. Ni Dhubhghaill  
      2019 Royal Victoria Eye and Ear Hospital -- Dublin, Ireland  
-
+  - Management of posterior capsular rupture - The ESCRS Academy Session  
+     S.S. Ni Dhubhghaill  
+     2019 Baltic Sea Ophthalmologist Society (BSOS)-- Istanbul, Turkey 
+     
 ## Posters
 
  - Characterisation of single nucleotide polymorphism (SNP) risk factors linked to age-related macular degeneration
@@ -531,7 +534,8 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Posterior Capsular Rent: Genesis and Management -- Chapter: The primary posterior continuous curvilinear capsulorhexis  
      Tassignon MJ, Ni Dhubhghaill S.
      A. Chakrabarti, ISBN-10: 8132235843 Springer Publishers 2017
-
+ - Innovative Ocular Surgery: The Bag-in-the-lens Cataract Surgery -- Editor and author of multiple chapters
+     Tassignon MJ, Ni Dhubhghaill S, Van Os Luc, ISBN 978-3-030-03086-5 Springer Publishers 2019
 
 ## Ongoing clinical trials
 
