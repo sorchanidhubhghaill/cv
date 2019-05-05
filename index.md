@@ -316,18 +316,21 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
   - Corneal Dystrophies 
      S.S. Ni Dhubhghaill  
      2018 Master na Master Clinical lessons - Antwerp, Belgium
-  - Toric Intraocular Lenses: The Corneal Didactic course 
+  - Toric Intraocular Lenses: The Corneal Didactic course  
      S.S. Ni Dhubhghaill  
      2019 European Society of Cataract and Refractive Surgeons Winter Meeting -- Athens, Greece  
-  - When the unexpected happens: Postoperative Infections 
+  - When the unexpected happens: Postoperative Infections  
      S.S. Ni Dhubhghaill  
      2019 European Society of Cataract and Refractive Surgeons Winter Meeting -- Athens, Greece           
-  - Innovative corneal techniques - what's new and what's next 
+  - Innovative corneal techniques - what's new and what's next  
      S.S. Ni Dhubhghaill  
      2019 Royal Victoria Eye and Ear Hospital -- Dublin, Ireland  
   - Management of posterior capsular rupture - The ESCRS Academy Session  
      S.S. Ni Dhubhghaill  
      2019 Baltic Sea Ophthalmologist Society (BSOS)-- Istanbul, Turkey 
+  - An update on quarter DMEK surgery  
+     S.S. Ni Dhubhghaill  
+     2019 NIIOS USA Cornea Evening -- San Diego, California, USA 
      
 ## Posters
 
