@@ -488,19 +488,19 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      2017 J Refract Surg. 33 (7), 454-459  
  - Modified bean-shaped ring segments for suture fixation of the bag-in-the-lens intraocular implant  
      Ni Dhubhghaill SS, Dogaroiu AC, Zakaria N, Tassignon MJ.  
-     2017 J Cataract Refract Surg. 43(8), 1003-1006     
+     2017 J Cataract Refract Surg. 43(8), 1003-1006  
+ - Diagnostic challenges in Nocardia keratitis  
+ Behaegel J, Ni Dhubhghaill SS, Koppen C.  
+ 2017 Eye and Contact lens. In Press 5/12/2017  
+ - Characterizing human decellularized crystalline lens capsules as a scaffold for corneal endothelial tissue engineering  
+     Van den Bogerd B, Ni Dhubhghaill SS, Zakaria N.  
+     2017 J Tissue Engineering and Regenerative Med. In Press 21/12/2017   
  - A review of the evidence for in vivo corneal endothelial regeneration.  
      Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Tassignon MJ, Zakaria N.  
      2018 Survey of Ophthalmology. 63 (2), 149-1657    
  - Scleral lenses reduce the need for corneal transplants in severe keratoconus.  
      Koppen C, Kreps EO, Anthonissen L, Van Hoey M, Ni Dhubhghaill SS, Vermeulen L.  
      2018 American Journal of Ophthalmology. Vol 185, 43-37  
- - Diagnostic challenges in Nocardia keratitis  
-     Behaegel J, Ni Dhubhghaill SS, Koppen C.  
-     2017 Eye and Contact lens. In Press 5/12/2017  
- - Characterizing human decellularized crystalline lens capsules as a scaffold for corneal endothelial tissue engineering  
-     Van den Bogerd B, Ni Dhubhghaill SS, Zakaria N.  
-     2017 J Tissue Engineering and Regenerative Med. In Press 21/12/2017
   - Corneal regeneration: A review of stromal replacements
      Matthysen S, Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Zakaria N.  
      2018 Acta Biomaterialia In Press
