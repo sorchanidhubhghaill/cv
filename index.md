@@ -103,7 +103,7 @@ Surgical experience in mini-pig corneal disease model.
 
 ## Career
 
-### Corneal Surgeon NIIOS
+### Corneal Surgeon NIIOS Melles Cornea Clinic  
 
 60% FTE September 2018 to present  
 NIIOS Netherlands Institute for Innovative Ocular Surgery -- Laan op Zuid 88, 3071 AA Rotterdam, The Netherlands
@@ -230,6 +230,7 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
 
  - Editorial board for the Journal of EU Cornea since Feb 2019
  - Editorial board for Eurotimes magazine since Oct 2018
+ - Examinations board for the EBO Examination - Cataract coordinator 1st line for the harmonization of the FEBO exam.
 
 ## Awarded funding
 
@@ -328,7 +329,10 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      2019 Baltic Sea Ophthalmologist Society (BSOS)-- Istanbul, Turkey
   - An update on quarter DMEK surgery  
      S.S. Ni Dhubhghaill  
-     2019 NIIOS USA Cornea Evening -- San Diego, California, USA
+     2019 NIIOS USA Cornea Evening -- San Diego, California, USA  
+  - Toric intraocular lenses  
+     S.S. Ni Dhubhghaill
+     2019 Belgian Society for Cataract and Refractive Surgeons Spring Meeting -- Liege, Belgium  
 
 ## Posters
 
