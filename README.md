@@ -10,3 +10,10 @@ git clone https://github.com/sorchanidhubhghaill/cv.git
 ```
 
 This CV is published at [cv.eyesurgeon.be](https://cv.eyesurgeon.be)
+
+
+This is just text.
+As single break makes no changes.  
+Unless you put a double space.
+
+This starts a new paragraph.
