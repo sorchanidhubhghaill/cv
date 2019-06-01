@@ -330,8 +330,8 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
   - An update on quarter DMEK surgery  
      S.S. Ni Dhubhghaill  
      2019 NIIOS USA Cornea Evening -- San Diego, California, USA  
-  - Toric intraocular lenses  
-     S.S. Ni Dhubhghaill
+  - Toric intraocular lenses and Live BIL Cataract Surgery    
+     S.S. Ni Dhubhghaill  
      2019 Belgian Society for Cataract and Refractive Surgeons Spring Meeting -- Liege, Belgium  
 
 ## Posters
@@ -521,8 +521,10 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      2019 J Cataract Refract Surgery 45 (3), 384-385  
  - Corneal epithelial restoration after penetrating keratoplasty in repeated failed cultivated limbal stem cell grafts.   
      Joséphine Behaegel, Carina Koppen, Veerle Van Gerwen, Marie-Jose Tassingon, Sorcha Ní Dhubhghaill  
-     2019 Journal of EuCornea
-
+     2019 Journal of EuCornea DOI: 10.1016/j.xjec.2019.03.001  
+ - Ethical issues in living-related corneal tissue transplantation.  
+     Joséphine Behaegel, Sorcha Ní Dhubhghaill, Heather Draper  
+     2019 Journal of Medical Ethics May 23. pii: medethics-2018-105146. doi: 10.1136/medethics-2018-105146. [Epub ahead of print] Review.     
 
 ## Books
 
@@ -544,8 +546,6 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
 
 ## Ongoing clinical trials
 
- - Mesothelioma Clinical trial  
-     Bayer pharmaceutical
  - OASIS Study  
      Arena Pharmaceutical
  - AMARANTH Clinical trial  
