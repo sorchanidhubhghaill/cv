@@ -309,28 +309,28 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Surgical alignment techniques - The ESCRS Academy Session  
      S.S. Ni Dhubhghaill  
      2018 The Baltic Eye Surgeons Talk Show Vol 6 -- Riga, Latvia
-  - Innovative Corneal Therapies - What's Possible?  
+ - Innovative Corneal Therapies - What's Possible?  
      S.S. Ni Dhubhghaill  
      2018 Hasselt Eye Group Meeting -- Hasselt, Belgium
-  - Corneal Dystrophies
+ - Corneal Dystrophies
      S.S. Ni Dhubhghaill  
      2018 Master na Master Clinical lessons - Antwerp, Belgium
-  - Toric Intraocular Lenses: The Corneal Didactic course  
+ - Toric Intraocular Lenses: The Corneal Didactic course  
      S.S. Ni Dhubhghaill  
      2019 European Society of Cataract and Refractive Surgeons Winter Meeting -- Athens, Greece  
-  - When the unexpected happens: Postoperative Infections  
+ - When the unexpected happens: Postoperative Infections  
      S.S. Ni Dhubhghaill  
      2019 European Society of Cataract and Refractive Surgeons Winter Meeting -- Athens, Greece           
-  - Innovative corneal techniques - what's new and what's next  
+ - Innovative corneal techniques - what's new and what's next  
      S.S. Ni Dhubhghaill  
      2019 Royal Victoria Eye and Ear Hospital -- Dublin, Ireland  
-  - Management of posterior capsular rupture - The ESCRS Academy Session  
+ - Management of posterior capsular rupture - The ESCRS Academy Session  
      S.S. Ni Dhubhghaill  
      2019 Baltic Sea Ophthalmologist Society (BSOS)-- Istanbul, Turkey
-  - An update on quarter DMEK surgery  
+ - An update on quarter DMEK surgery  
      S.S. Ni Dhubhghaill  
      2019 NIIOS USA Cornea Evening -- San Diego, California, USA  
-  - Toric intraocular lenses and Live BIL Cataract Surgery    
+ - Toric intraocular lenses and Live BIL Cataract Surgery    
      S.S. Ni Dhubhghaill  
      2019 Belgian Society for Cataract and Refractive Surgeons Spring Meeting -- Liege, Belgium  
 
@@ -493,7 +493,7 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  Behaegel J, Ni Dhubhghaill SS, Koppen C.  
  2017 Eye and Contact lens. In Press 5/12/2017  
  - Characterizing human decellularized crystalline lens capsules as a scaffold for corneal endothelial tissue engineering  
-     Van den Bogerd B, Ni Dhubhghaill SS, Zakaria N.  
+    ergqwertgwetg Van den Bogerd B, Ni Dhubhghaill SS, Zakaria N.  
      2017 J Tissue Engineering and Regenerative Med. In Press 21/12/2017   
  - A review of the evidence for in vivo corneal endothelial regeneration.  
      Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Tassignon MJ, Zakaria N.  
@@ -501,16 +501,16 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Scleral lenses reduce the need for corneal transplants in severe keratoconus.  
      Koppen C, Kreps EO, Anthonissen L, Van Hoey M, Ni Dhubhghaill SS, Vermeulen L.  
      2018 American Journal of Ophthalmology. Vol 185, 43-37  
-  - Corneal regeneration: A review of stromal replacements
+ - Corneal regeneration: A review of stromal replacements
      Matthysen S, Van den Bogerd B, Ni Dhubhghaill SS, Koppen C, Zakaria N.  
      2018 Acta Biomaterialia In Press
-  - Primary descemetorhexis without endothelial keratoplasty to promote awareness and caution  
+ - Primary descemetorhexis without endothelial keratoplasty to promote awareness and caution  
      Van den Bogerd B, Ni Dhubhghaill SS  
      2018 J Cataract Refract Surgery 44(3), 417
-  - Ultrathin Poly-DL-Lactic Membranes for Corneal Endothelial Transplantation  
+ - Ultrathin Poly-DL-Lactic Membranes for Corneal Endothelial Transplantation  
      Van den Bogerd B, Jasper Van Hoorick, Jürgen Van Erps, Hugo Thienpont, Sorcha Ní Dhubhghaill, Peter Dubruel, Sandra Van        Vlierberghe, Nadia Zakaria  
      2018 Investigative Ophthalmology & Visual Science 59 (9), 1378-1378
-  - Regeneration of the anterior cornea through a standardized, non-xenogenic, cultivated limbal stem cell transplantation:  Results of a phase II clinical trial  
+ - Regeneration of the anterior cornea through a standardized, non-xenogenic, cultivated limbal stem cell transplantation:  Results of a phase II clinical trial  
      Joséphine Behaegel, Carina Koppen, Sorcha Ní Dhubhghaill, Inge Leysen, Michel Haagdorens, Eline Melsbach, Jos J Rozema,        Marie-José Tassignon, Nadia Zakaria  
      2018 Investigative Ophthalmology & Visual Science 59(9) 2270  
  - Cultured Cells and Rock Inhibitor for Bullous Keratopathy  
