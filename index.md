@@ -5,7 +5,7 @@ title: NI DHUBHGHAILL Sorcha Siobh&aacute;n
 ## Personal information
 
 |----------------|-------------------------------------|
-|     First name | Sorcha Siobhan               |
+|     First name | Sorcha Siobh&aacute;n               |
 |      Last name | Ni Dhubhghaill               |
 |    Nationality | Irish American                      |
 |  Mother tongue | English                             |
@@ -74,19 +74,16 @@ Surgical experience in mini-pig corneal disease model.
 
 ## Additonal training
 
- - 2008, Certified completion of the Laboratory Animals in Science and Teaching (LAST) accreditation
-   and Modules 1,2 and 3 UK accreditation (ASPA)
- - 2008, Completed the Graduate Course in Immunology (TCD Department of Immunology) coordinated
-   by Prof. Cliona O'Farrelly
- - 2010, Alcon Basic Phacoemulsification Course (Hemell Hempstead UK) Completed February 2010
- - 2010, Microsurgical Skills Course ICO, Royal College of Surgeons Ireland November 2010
- - 2010, ICO Glaucoma skills workshop, Royal Victoria Eye and Ear Hospital December 2010
- - 2011, A rational approach to retinal detachment (Chair: B.Aylward), Joint AAO/SOE meeting, Geneva 2011
- - 2011, Dry AMD workshop (Chair: U. Chakravarthy), Joint AAO/SOE meeting, Geneva 2011
- - 2011, Neuro-ophthalmology Course, (Ms P. Logan) August 2011, Beaumont Hospital 2011
- - 2011, Theoretical and practical instruction in performing the surgical procedure of Trabeculectomy
-   (Prof P Shah), Birmingham, February 2012
- - 2012, ESCRS wet lab -- managing phaco complications, Milan, September 2012
+ - 2008, Certified completion of the Laboratory Animals in Science and Teaching (LAST) accreditation and Modules 1,2 and 3 UK accreditation (ASPA)  
+ - 2008, Completed the Graduate Course in Immunology (TCD Department of Immunology) coordinated by Prof. Cliona O'Farrelly  
+ - 2010, Alcon Basic Phacoemulsification Course (Hemell Hempstead UK) Completed February  
+ - 2010, Microsurgical Skills Course ICO, Royal College of Surgeons Ireland November  
+ - 2010, ICO Glaucoma skills workshop, Royal Victoria Eye and Ear Hospital December  
+ - 2011, A rational approach to retinal detachment (Chair: B.Aylward), Joint AAO/SOE meeting, Geneva  
+ - 2011, Dry AMD workshop (Chair: U. Chakravarthy), Joint AAO/SOE meeting, Geneva  
+ - 2011, Neuro-ophthalmology Course, (Ms P. Logan) August, Beaumont Hospital  
+ - 2012, Theoretical and practical instruction in performing the surgical procedure of Trabeculectomy (Prof P Shah), Birmingham, February 2012  
+ - 2012, ESCRS wet lab -- managing phaco complications, Milan, September 2012  
  - 2017, CME Novel Approaches in the management of Dry Eye Disease, Online course, New York Eye and Ear Infirmary  
  - 2019, Holoclar Autologous corneal stem cell therapy investigators meeting, Rome, Italy  
 
