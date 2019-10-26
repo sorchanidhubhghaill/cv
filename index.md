@@ -232,6 +232,12 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Editorial board for the Journal of EU Cornea since Feb 2019
  - Editorial board for Eurotimes magazine since Oct 2018
  - Examinations board for the EBO Examination - Cataract coordinator 1st line for the harmonization of the FEBO exam.
+ 
+### Educational roles: PhD Students
+
+ - Editorial board for the Journal of EU Cornea since Feb 2019
+ - Editorial board for Eurotimes magazine since Oct 2018
+ - Examinations board for the EBO Examination - Cataract coordinator 1st line for the harmonization of the FEBO exam.
 
 ## Awarded funding
 
