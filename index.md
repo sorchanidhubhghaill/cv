@@ -531,9 +531,36 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      2019 Journal of EuCornea DOI: 10.1016/j.xjec.2019.03.001  
  - Ethical issues in living-related corneal tissue transplantation.  
      Joséphine Behaegel, Sorcha Ní Dhubhghaill, Heather Draper  
-     2019 Journal of Medical Ethics May 23. pii: medethics-2018-105146. doi: 10.1136/medethics-2018-105146. [Epub ahead of print] Review.     
+     2019 Journal of Medical Ethics May 23. pii: medethics-2018-105146. doi: 10.1136/medethics-2018-105146. Review.  
+ - Pterygium Pathology: A Prospective Case-Control Study on Tear Film Cytokine Levels.     
+     SI Van Acker, M Haagdorens, E Roelant, J Rozema, T Possemiers, V Van Gerwen, M-J Tassignon, V De Groot, S Ní Dhubhghaill, C Koppen, N Zakaria.   
+     2019 Mediators Inflamm. Nov 12;2019:9416262. doi: 10.1155/2019/9416262. eCollection 2019.    
+ - In vitro endothelial cell migration from limbal edge-modified Quarter-DMEK grafts.  
+     A Miron, D Spinozzi, S Ni Dhubhghaill, J T Lie, S Oellerich, GRJ Melles    
+     2019 PloS one 14 (11).  
+ - Risk factors associated with high endothelial cell density decrease after Descemet membrane endothelial keratoplasty.    
+     K van Dijk, S Oellerich, H Lisanne, S Ni Dhubhghaill, L Baydoun, GRJ Melles  
+     2019 Investigative Ophthalmology & Visual Science 60 (9), 3813-3813. 
+ - Axial length changes in healthy adult eyes.    
+     J Rozema, S Ní Dhubhghaill.  
+     2019 Investigative Ophthalmology & Visual Science 60 (9), 4834-4834. 
+ - Five-Year Graft Survival and Clinical Outcomes of 500 Consecutive Cases After Descemet Membrane Endothelial Keratoplasty.   
+     RS Birbal, S Ni Dhubhghaill, VJA Bourgonje, J Hanko, L Ham, MJ Jager, S Böhringer, S Oellerich, GRJ Melles.  
+     2019 Cornea Aug 29.  
+ - Quarter-Descemet Membrane Endothelial Keratoplasty: One-to Two-Year Clinical Outcomes.    
+     RS Birbal, S Ni Dhubhghaill, L Baydoun, L Ham, VJA Bourgonje, I Dapena, S Oellerich, GRJ Melles  
+     2019 Cornea, 30 Aug 2019     
+ - Corneal Endothelial Cells Over the Past Decade: Are We Missing the Mark(er)?.    
+     B Van den Bogerd, N Zakaria, B Adam, S Matthyssen, C Koppen, S Ní Dhubhghaill  
+     2019 Translational Vision Science & Technology Nov 15;8(6):13.     
+  - Short-and Long-Term Results of Xenogeneic-Free Cultivated Autologous and Allogeneic Limbal Epithelial Stem Cell Transplantations.    
+     J Behaegel, N Zakaria, MJ Tassignon, I Leysen, F Bock, C Koppen, S Ní Dhubhghaill  
+     2019 Cornea Dece 2019 - Volume 38 - Issue 12 - p 1543–1549  
+ - In Vitro Evaluation of the Feasibility of Slit-Lamp Nd: YAG Laser Descemetorhexis.    
+     DC Dragnea, S Ní Dhubhghaill, VJA Bourgonje, I Dapena, S Oellerich, GRJ Melles, I Lavy  
+     2020 Cornea Feb;39(2):229-233.       
 
-## Books
+## Books and book chapters  
 
  - Diagnosis and treatment of uveitis -- Chapter: Sympathetic Ophthalmia  
      Ni Dhubhghaill SS, Power W.  
@@ -550,6 +577,8 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      A. Chakrabarti, ISBN-10: 8132235843 Springer Publishers 2017
  - Innovative Ocular Surgery: The Bag-in-the-lens Cataract Surgery -- Editor and author of multiple chapters
      Tassignon MJ, Ni Dhubhghaill S, Van Os Luc, ISBN 978-3-030-03086-5 Springer Publishers 2019
+ - Cultivated Limbal Stem Cell Transplantation: Indications and Technique: Therapy and Surgery  
+     J Behaegel, S Ni Dhubhghaill, MJ Tassignon 2019 Corneal Regeneration, 277-290  
 
 ## Ongoing clinical trials
 
