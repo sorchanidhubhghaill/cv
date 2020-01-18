@@ -560,7 +560,7 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      DC Dragnea, S Ní Dhubhghaill, VJA Bourgonje, I Dapena, S Oellerich, GRJ Melles, I Lavy  
      2020 Cornea Feb;39(2):229-233.       
 
-## Books and book chapters  
+## Books and Book Chapters  
 
  - Diagnosis and treatment of uveitis -- Chapter: Sympathetic Ophthalmia  
      Ni Dhubhghaill SS, Power W.  
