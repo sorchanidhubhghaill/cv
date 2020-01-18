@@ -226,18 +226,35 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
 
  - Board member of the examinations committee of the Joint ESCRS/EBO subspecialist examination
  - Board member of the Belgian Society of Cataract and Refractive Surgeons BSCRS
+ - Examinations board for the EBO Examination - Cataract coordinator 1st line for the harmonization of the FEBO exam.
 
-### Editorial work  
+### Editorial Work  
 
  - Editorial board for the Journal of EU Cornea since Feb 2019
  - Editorial board for Eurotimes magazine since Oct 2018
- - Examinations board for the EBO Examination - Cataract coordinator 1st line for the harmonization of the FEBO exam.
- 
-### Educational roles: PhD Students
 
- - Editorial board for the Journal of EU Cornea since Feb 2019
- - Editorial board for Eurotimes magazine since Oct 2018
- - Examinations board for the EBO Examination - Cataract coordinator 1st line for the harmonization of the FEBO exam.
+### Educational Roles: Student Guidance and Supervision
+
+ - ### Bachelor thesis co-promoter: 2014-2015  
+   Irena Gripshi Universiteit Antwerpen  
+   "Onderzoek naar pijnervaring bij patienten die een cataractingreep ondergaan"  
+ - ### Master thesis co-promoter: 2014-2015   
+   Bert Van den Bogerd, Universiteit Antwerpen  
+   "Optimized corneal endothelial cell cultiviation to address glocal corneal donor shortage"  
+ - ### Master thesis external mentor: 2014-2015 
+   Benedicte Verbraeken, Karl De Groot Hogeshool – Product development  
+   "The development of a new surgical tool to take limbal biopsies" 
+ - ### PhD Co-promoter: 2015-2019  
+   Steffi Matthysen, Universiteit Antwerpen  
+   "Towards the development of a biomimetic corneal stroma"  
+ - ### PhD Promoter: 2015-2019  
+   Josephine Behaegel, Universiteit Antwerpen, Vrije Universiteit Brussels  
+   Karl De Groot Hogeshool – Product development  
+   "The bigger picture of ex-vivo cultivated limbal epithelial stem cell transplantation" 
+ - ### PhD Promoter: 2016-2020  
+   Bert Van den Bogerd, Universiteit Antwerpen  
+   "Corneal Endothelial Tissue Engineering: from biological to synthetic scaffolds"  
+
 
 ## Awarded funding
 
