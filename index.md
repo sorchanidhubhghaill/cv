@@ -561,22 +561,31 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Axial length changes in healthy adult eyes.    
      J Rozema, S Ní Dhubhghaill.  
      2019 Investigative Ophthalmology & Visual Science 60 (9), 4834-4834. 
- - Five-Year Graft Survival and Clinical Outcomes of 500 Consecutive Cases After Descemet Membrane Endothelial Keratoplasty.   
-     RS Birbal, S Ni Dhubhghaill, VJA Bourgonje, J Hanko, L Ham, MJ Jager, S Böhringer, S Oellerich, GRJ Melles.  
-     2019 Cornea Aug 29.  
- - Quarter-Descemet Membrane Endothelial Keratoplasty: One-to Two-Year Clinical Outcomes.    
-     RS Birbal, S Ni Dhubhghaill, L Baydoun, L Ham, VJA Bourgonje, I Dapena, S Oellerich, GRJ Melles  
-     2019 Cornea, 30 Aug 2019     
  - Corneal Endothelial Cells Over the Past Decade: Are We Missing the Mark(er)?.    
      B Van den Bogerd, N Zakaria, B Adam, S Matthyssen, C Koppen, S Ní Dhubhghaill  
      2019 Translational Vision Science & Technology Nov 15;8(6):13.     
   - Short-and Long-Term Results of Xenogeneic-Free Cultivated Autologous and Allogeneic Limbal Epithelial Stem Cell Transplantations.    
      J Behaegel, N Zakaria, MJ Tassignon, I Leysen, F Bock, C Koppen, S Ní Dhubhghaill  
-     2019 Cornea Dece 2019 - Volume 38 - Issue 12 - p 1543–1549  
+     2019 Cornea Dec 2019 - Volume 38 - Issue 12 - p 1543–1549  
+ - Five-Year Graft Survival and Clinical Outcomes of 500 Consecutive Cases After Descemet Membrane Endothelial Keratoplasty.   
+     RS Birbal, S Ni Dhubhghaill, VJA Bourgonje, J Hanko, L Ham, MJ Jager, S Böhringer, S Oellerich, GRJ Melles.  
+     2020 Cornea 39(3) 290-297
+ - Quarter-Descemet Membrane Endothelial Keratoplasty: One-to Two-Year Clinical Outcomes.    
+     RS Birbal, S Ni Dhubhghaill, L Baydoun, L Ham, VJA Bourgonje, I Dapena, S Oellerich, GRJ Melles  
+     2019 Cornea 39(3) 277-282  
  - In Vitro Evaluation of the Feasibility of Slit-Lamp Nd: YAG Laser Descemetorhexis.    
      DC Dragnea, S Ní Dhubhghaill, VJA Bourgonje, I Dapena, S Oellerich, GRJ Melles, I Lavy  
-     2020 Cornea Feb;39(2):229-233.       
-
+     2020 Cornea Feb;39(2):229-233.  
+ - Exploring the Mesenchymal Stem Cell Secretome for Corneal Endothelial Proliferation.    
+     B Van den Bogerd, N Zakaria, S Matthyssen, C Koppen, S Ní Dhubhghaill  
+     2020 Stem Cells Int Feb; eCollection 5891393  
+ - Development and Validation of an Open-Source Grading Tool for Outcome Assessment in Limbal Stem Cell Treatment
+     J Behaegel, A Consejo, K Wouters, C Koppen, J De Cock, S Ní Dhubhghaill  
+     2020 Cornea Feb 10; Epub ahead of print  
+ - Bowman Layer Onlay Transplantation to Manage Herpes Corneal Scar.     
+     I Dapena, A Musayeva, D Dragnea, EA Groeneveld-van Beek, S Ní Dhubhghaill, JS Parker, K van Dijk, GRJ Melles.  
+     2020 Cornea Feb 17; Epub ahead of print  
+     
 ## Books and Book Chapters  
 
  - Diagnosis and treatment of uveitis -- Chapter: Sympathetic Ophthalmia  
