@@ -226,7 +226,6 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
 
  - Board member of the examinations committee of the Joint ESCRS/EBO subspecialist examination
  - Board member of the Belgian Society of Cataract and Refractive Surgeons BSCRS
- - Examinations board for the EBO Examination - Cataract coordinator 1st line for the harmonization of the FEBO exam.
 
 ### Editorial Work  
 
