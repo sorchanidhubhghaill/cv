@@ -580,10 +580,22 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
      2020 Stem Cells Int Feb; eCollection 5891393  
  - Development and Validation of an Open-Source Grading Tool for Outcome Assessment in Limbal Stem Cell Treatment
      J Behaegel, A Consejo, K Wouters, C Koppen, J De Cock, S Ní Dhubhghaill  
-     2020 Cornea Feb 10; Epub ahead of print  
+     2020 Cornea 39 (6) 787-792
  - Bowman Layer Onlay Transplantation to Manage Herpes Corneal Scar.     
      I Dapena, A Musayeva, D Dragnea, EA Groeneveld-van Beek, S Ní Dhubhghaill, JS Parker, K van Dijk, GRJ Melles.  
-     2020 Cornea Feb 17; Epub ahead of print  
+     2020 Cornea Feb 17; 17/02/2020 
+ - In Vitro Evaluation and Transplantation of Human Corneal Endothelial Cells Cultured on Biocompatible Carriers.    
+     D Spinozzi, A Miron, J T Lie, M Rafat, N Lagali, GRJ Melles, S Ni Dhubhghaill, I Dapena, S Oellerich.  
+     2020 Cell Transplantation Vol.29 Pages 0963689720923577  
+ - Endothelial Cell Density Changes in the Corneal Center Versus Paracentral Areas After Descemet Membrane Endothelial Keratoplasty.     
+     A Musayeva, E Livny, DC Dragnea, L Ham, I Vasiliauskaitė, S Ní Dhubhghaill, K van Dijk, S Oellerich, GRJ Melles.   
+     2020 Cornea April 8; Epub ahead of print  
+ - Clinically significant pseudophakic cystoid macular edema after bag-in-the-lens implantation.  
+     D Scheers, L Van Os, S Ní Dhubhghaill, K Wouters, MJ Tassignon.  
+     2020 J Cataract Refract Surg 46(4) 606-611  
+ - Baseline Findings in the Retrospective Digital Computer Analysis of Keratoconus Evolution (REDCAKE) Project.     
+     M Jiménez-García, S Ní Dhubhghaill, C Koppen, D Varssano, J J Rozema.  
+     2020 Cornea Jun 10; Epub ahead of print  
      
 ## Books and Book Chapters  
 
