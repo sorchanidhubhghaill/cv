@@ -356,6 +356,9 @@ Completed rotations in general surgery, maxillofacial surgery, gastroenterology 
  - Toric intraocular lenses and Live BIL Cataract Surgery    
      S.S. Ni Dhubhghaill  
      2019 Belgian Society for Cataract and Refractive Surgeons Spring Meeting -- Liege, Belgium  
+ - The learning curve of the Bag-in-the-Lens technique  
+     S.S. Ni Dhubhghaill  
+     2020 European Society for Cataract and Refractive Surgeons Summer Meeting -- Amsterdam, Holland (Webinar)
 
 ## Posters
 
